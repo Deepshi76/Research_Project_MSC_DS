@@ -1,0 +1,14 @@
+pandas
+openpyxl
+langdetect
+matplotlib
+seaborn
+numpy
+scikit-learn
+nltk
+spacy
+transformers
+torch
+tqdm
+jupyter
+
