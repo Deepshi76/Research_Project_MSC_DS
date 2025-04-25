@@ -1,0 +1,196 @@
+Ponds
+
+ProductName: PondsBBPlusCream
+Volume: 18g
+Cost: LKR 990.00
+Brand: Ponds
+ItemVolume: 18g
+ItemForm: Cream
+NetQuantity: 18.0g
+KokoPay: 3 x LKR 330.00
+AboutThisItem: 2-in-1 formula combining Vitamin Cream and Lightweight Foundation. Covers spots, minimizes pores, brightens skin, and gives a natural glow.
+KeyFeatures: InstantSpotCoverage, LightMakeupEffect, VitaminB3E, AllSkinTypes
+HowToUse: Apply evenly on cleansed skin every morning. Suitable for daily use.
+
+ProductName: PondsLightMoisturizer
+Volume: 25ml
+Cost: LKR 385.00
+Brand: Ponds
+ItemVolume: 25ml
+ItemForm: Cream
+NetQuantity: 25.0ml
+KokoPay: 3 x LKR 128.33
+AboutThisItem: Lightweight, non-oily moisturizer enriched with Vitamin E for all-day hydration and a fresh glow.
+KeyFeatures: QuickAbsorbing, NonSticky, VitaminE, AllSeasonUse
+HowToUse: Dot over face and gently massage in upward spiral motion.
+
+ProductName: PondsPureDetoxFacewash
+Volume: 50g
+Cost: LKR 700.00
+Brand: Ponds
+ItemVolume: 50g
+ItemForm: Facewash
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 233.33
+AboutThisItem: Contains activated charcoal to lift away dirt and pollution for a pure, detoxified glow.
+KeyFeatures: CharcoalCleanse, PollutionRemoval, OilFreeGlow
+HowToUse: Lather a coin-sized amount, massage on wet face for 30–60 seconds, rinse.
+
+ProductName: PondsPimpleClearFacewash
+Volume: 50g
+Cost: LKR 800.00
+Brand: Ponds
+ItemVolume: 50g
+ItemForm: Facewash
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 213.33
+AboutThisItem: Fights 99.9% of pimple-causing bacteria using Thymo-T Essence and Salicylic Acid. Reduces pimples in just 3 days.
+KeyFeatures: FastPimpleClear, ThymoTEssence, DeepPoreCleanse
+HowToUse: Lather with lukewarm water, massage gently, rinse thoroughly.
+
+ProductName: PondsBrightBeautySerumCream
+Volume: 23g
+Cost: LKR 590.00
+Brand: Ponds
+ItemVolume: 23g
+ItemForm: Cream
+NetQuantity: 23.0g
+KokoPay: 3 x LKR 196.66
+AboutThisItem: Serum-infused cream with Vitamin B3 to reduce dark spots and give a spotless glow in 7 days.
+KeyFeatures: SpotlessGlow, VitaminB3, GlycerinEnriched
+HowToUse: Apply pea-sized amount daily after washing face.
+
+ProductName: PondsBrightBeautyFacewash
+Volume: 50g
+Cost: LKR 700.00
+Brand: Ponds
+ItemVolume: 50g
+ItemForm: Facewash
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 233.33
+AboutThisItem: Deep cleanses and brightens skin using Pro-Vitamin B3. Removes dullness and impurities.
+KeyFeatures: BrighteningFacewash, ProVitaminB3, DeadSkinRemoval
+HowToUse: Lather and massage on face and neck. Rinse thoroughly.
+
+ProductName: PondsBrightBeautyFacewash
+Volume: 100g
+Cost: LKR 890.00
+Brand: Ponds
+ItemVolume: 100g
+ItemForm: Facewash
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 296.66
+AboutThisItem: Same formulation as the 50g variant with double the quantity.
+KeyFeatures: DeepCleanse, EvenSkinTone, RadiantGlow
+HowToUse: Same as above.
+
+ProductName: PondsHydraMiracleSuperLightGel
+Volume: 25ml
+Cost: LKR 470.00
+Brand: Ponds
+ItemVolume: 25ml
+ItemForm: Gel
+NetQuantity: 25.0ml
+KokoPay: 3 x LKR 156.66
+AboutThisItem: Hyaluronic Acid-based super light gel provides 24-hour hydration and instant glow. Non-oily and ideal for all skin types.
+KeyFeatures: HyaluronicAcid, VitaminE, LightweightMoisture
+HowToUse: Apply gently in circular motions on cleansed skin morning and night.
+
+ProductName: PondsAgeMiracleDayCream
+Volume: 50g
+Cost: LKR 3250.00
+Brand: Ponds
+ItemVolume: 50g
+ItemForm: Cream
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 866.66
+AboutThisItem: Anti-aging day cream with Retinol-C Complex for reducing wrinkles and boosting youthful glow.
+KeyFeatures: RetinolC, SPF18, AntiWrinkleCare
+HowToUse: Apply every morning on cleansed face in circular motion until fully absorbed.
+
+ProductName: PondsBrightBeautyDailyBrighteningFacewash
+Volume: 100ml
+Cost: LKR 470.00
+Brand: Ponds
+ItemVolume: 100ml
+ItemForm: Facewash
+NetQuantity: 100.0ml
+KokoPay: 3 x LKR 156.66
+AboutThisItem: Vitamin B3-infused formula to brighten skin and reduce dark spots with every wash.
+KeyFeatures: NiacinamideGlow, MildCleansing, RadianceBoost
+HowToUse: Lather and massage onto face and neck, then rinse.
+
+ProductName: PondsBrightBeautySerumCream
+Volume: 35g
+Cost: LKR 820.00
+Brand: Ponds
+ItemVolume: 35g
+ItemForm: Cream
+NetQuantity: 35.0g
+KokoPay: 3 x LKR 273.33
+AboutThisItem: Anti-spot day cream with SPF15 and Advanced Vitamin B3 to block UV rays and reduce pigmentation.
+KeyFeatures: SpotCorrecting, UVProtection, AdvancedVitaminB3
+HowToUse: Apply evenly after cleansing. Focus on dark spots and blend gently.
+
+ProductName: PondsSunscreenCreamSPF55
+Volume: 50g
+Cost: LKR 1900.00
+Brand: Ponds
+ItemVolume: 50g
+ItemForm: SunscreenCream
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 506.66
+AboutThisItem: High-SPF sunscreen with Niacinamide-C Serum to prevent dark patches, sun damage, and blue light exposure.
+KeyFeatures: SPF55, NiacinamideSerum, UltraLightFormula
+HowToUse: Apply 20 minutes before sun exposure. Reapply every 3–4 hours.
+
+ProductName: PondsPureDetoxFacewash
+Volume: 100g
+Cost: LKR 890.00
+Brand: Ponds
+ItemVolume: 100g
+ItemForm: Facewash
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 296.66
+AboutThisItem: Charcoal facewash that removes pollutants, excess oil, and impurities for glowing skin.
+KeyFeatures: CharcoalPower, OilControl, DeepPoreCleanse
+HowToUse: Lather coin-sized amount and rinse off.
+
+ProductName: PondsSunscreenCreamSPF35
+Volume: 15g
+Cost: LKR 475.00
+Brand: Ponds
+ItemVolume: 15g
+ItemForm: SunscreenCream
+NetQuantity: 15.0g
+KokoPay: 3 x LKR 158.33
+AboutThisItem: Compact sunscreen that protects against UVA/UVB rays and fades dark patches using Niacinamide-C.
+KeyFeatures: SPF35, BrighteningCare, TravelSize
+HowToUse: Use on face and neck 20 minutes before sun. Reapply regularly.
+
+ProductName: PondsLightMoisturizer
+Volume: 50ml
+Cost: LKR 600.00
+Brand: Ponds
+ItemVolume: 50ml
+ItemForm: Cream
+NetQuantity: 50.0ml
+KokoPay: 3 x LKR 200.00
+AboutThisItem: Lightweight, Vitamin E-rich moisturizer for daily hydration and non-oily glow.
+KeyFeatures: NonSticky, SoftGlow, VitaminENourishment
+HowToUse: Apply on cleansed face and massage in circular motion.
+
+ProductName: PondsBrightMiracleDeepCleanseFacewash
+Volume: 100ml
+Cost: LKR 470.00
+Brand: Ponds
+ItemVolume: 100ml
+ItemForm: Facewash
+NetQuantity: 100.0ml
+KokoPay: 3 x LKR 156.66
+AboutThisItem: Charcoal-enriched formula that removes dirt and oil to reveal bright skin.
+KeyFeatures: CharcoalPurity, InstantGlow, GentleCleanse
+HowToUse: Apply on wet face, lather, massage and rinse off.
+
+
+

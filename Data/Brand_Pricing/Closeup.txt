@@ -1,0 +1,38 @@
+Closeup
+
+ProductName: CloseupRedHotToothpaste
+Volume: 120g
+Cost: LKR 410.00
+Brand: Closeup
+ItemVolume: 120g
+ItemForm: Toothpaste
+NetQuantity: 120.0g
+KokoPay: 3 x LKR 136.66
+AboutThisItem: Closeup Red Hot Triple Fresh Formula delivers up to 12 hours of fresh breath. Combines purifying gel, breath-freshening mouthwash, and anti-germ formula for complete mouth confidence.
+KeyFeatures: 12HourFreshness, RedHotFlavor, AntiGermFormula, TripleFreshProtection
+HowToUse: Brush your teeth twice daily. Rinse thoroughly. Avoid swallowing.
+
+ProductName: CloseupPeppermintSplashToothpaste
+Volume: 120g
+Cost: LKR 410.00
+Brand: Closeup
+ItemVolume: 120g
+ItemForm: Toothpaste
+NetQuantity: 120.0g
+KokoPay: 3 x LKR 136.66
+AboutThisItem: Infused with Peppermint Splash flavor, this variant provides long-lasting freshness with Closeup’s unique Triple Fresh Formula. Keeps breath fresh and teeth clean.
+KeyFeatures: PeppermintFlavor, LongLastingFreshness, FluorideBased, CavityProtection
+HowToUse: Brush thoroughly twice daily for best results.
+
+ProductName: CloseupNaturalsCloveAndOrangeToothpaste
+Volume: 120g
+Cost: LKR 410.00
+Brand: Closeup
+ItemVolume: 120g
+ItemForm: HerbalToothpaste
+NetQuantity: 120.0g
+KokoPay: 3 x LKR 136.66
+AboutThisItem: Enriched with natural clove oil and orange essence to fight germs and maintain healthy gums. Refreshing natural flavor and gentle on enamel.
+KeyFeatures: NaturalCloveOil, GumCare, HerbalFreshness, FluorideEnriched
+HowToUse: Brush twice daily. Use a pea-sized amount for kids aged 3–6, smear for under 3. Supervise children during use.
+

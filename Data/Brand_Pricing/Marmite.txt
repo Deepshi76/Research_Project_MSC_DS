@@ -1,0 +1,25 @@
+Marmite
+ProductName: MarmiteYeastExtractSpread
+Volume: 100g
+Cost: LKR 620.00
+Brand: Marmite
+ItemVolume: 100g
+ItemForm: Spread
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 206.66
+AboutThisItem: Marmite is a savory yeast extract spread, rich in B vitamins, known for its distinctive taste. Ideal for spreading on toast or adding depth to recipes.
+KeyFeatures: RichInBVitamins, VegetarianFriendly, DistinctiveFlavor
+HowToUse: Spread thinly on toast or incorporate into cooking for added flavor.
+
+ProductName: MarmiteYeastExtractSpreadLarge
+Volume: 200g
+Cost: LKR 1,200.00
+Brand: Marmite
+ItemVolume: 200g
+ItemForm: Spread
+NetQuantity: 200.0g
+KokoPay: 3 x LKR 400.00
+AboutThisItem: Larger jar of Marmite yeast extract spread, offering the same rich taste and nutritional benefits in a family-friendly size.
+KeyFeatures: FamilySize, RichInBVitamins, VegetarianFriendly
+HowToUse: Use as a spread or flavor enhancer in various dishes.
+

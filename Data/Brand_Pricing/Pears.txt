@@ -1,0 +1,63 @@
+Pears
+
+ProductName: PearsPureAndGentleSoap
+Volume: 100g
+Cost: LKR 290.00
+Brand: Pears
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 96.66
+AboutThisItem: Classic glycerin bar made with 98% pure glycerin and natural oils, providing gentle cleansing and hydration while being mild on delicate skin.
+KeyFeatures: GlycerinRich, DermatologistTested, GentleOnSkin, TransparentSoap
+HowToUse: Apply to wet skin, lather softly, and rinse thoroughly.
+
+ProductName: PearsSoftAndFreshSoap
+Volume: 100g
+Cost: LKR 290.00
+Brand: Pears
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 96.66
+AboutThisItem: Transparent soap enriched with mint extracts and glycerin, this bar gently cleans while giving a refreshing feel and natural glow.
+KeyFeatures: MintInfused, SoftAndFreshSkin, GlycerinGlow
+HowToUse: Use on wet skin for a cooling cleanse. Rinse completely.
+
+ProductName: PearsOilClearAndGlowSoap
+Volume: 100g
+Cost: LKR 290.00
+Brand: Pears
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 96.66
+AboutThisItem: Enriched with lemon flower extracts and pure glycerin to remove excess oil while keeping skin soft and radiant.
+KeyFeatures: OilControl, LemonFresh, SkinGlow, NonDryingCleanse
+HowToUse: Lather on oily skin areas, cleanse and rinse off.
+
+ProductName: PearsNaturaleAloeVeraSoap
+Volume: 125g
+Cost: LKR 320.00
+Brand: Pears
+ItemVolume: 125g
+ItemForm: SoapBar
+NetQuantity: 125.0g
+KokoPay: 3 x LKR 106.66
+AboutThisItem: Made with 100% organic Aloe Vera and pure glycerin, this soap deeply hydrates and calms sensitive skin.
+KeyFeatures: AloeHydration, OrganicCare, GentleFormula
+HowToUse: Use daily for soft, soothed skin. Avoid contact with eyes.
+
+ProductName: PearsNaturalePomegranateBrighteningSoap
+Volume: 125g
+Cost: LKR 320.00
+Brand: Pears
+ItemVolume: 125g
+ItemForm: SoapBar
+NetQuantity: 125.0g
+KokoPay: 3 x LKR 106.66
+AboutThisItem: Enriched with natural pomegranate and rose extracts, this soap enhances skin brightness while maintaining moisture.
+KeyFeatures: SkinBrightening, RoseAndFruitBlend, NaturalGlow
+HowToUse: Gently rub onto wet skin, rinse well. Ideal for daily use.
+
+

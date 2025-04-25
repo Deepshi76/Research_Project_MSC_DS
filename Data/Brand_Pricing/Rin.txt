@@ -1,0 +1,21 @@
+Brand: Rin
+ItemVolume: 1kg
+ItemForm: Powder
+NetQuantity: 1.0kg
+KokoPay: 3 x LKR 110.66
+AboutThisItem: Detergent powder that delivers brightening and freshness to clothes, leaving them with a lemon and rose fragrance.
+KeyFeatures: BrighteningEffect, LemonAndRoseFragrance, EffectiveCleaning
+HowToUse: Use 1 scoop for regular loads; adjust quantity for heavily soiled clothes.
+
+ProductName: RinAntiGermDetergentPowder
+Volume: 500g
+Cost: LKR 190.00
+Brand: Rin
+ItemVolume: 500g
+ItemForm: Powder
+NetQuantity: 500.0g
+KokoPay: 3 x LKR 63.33
+AboutThisItem: Detergent powder with anti-germ properties, ensuring hygienic cleanliness for your laundry.
+KeyFeatures: AntiGermProtection, HygienicCleanliness, EffectiveStainRemoval
+HowToUse: Use appropriate amount based on load size and soil level.
+

@@ -1,0 +1,111 @@
+Tresemme
+
+ProductName: TresemmeKeratinSmoothConditioner
+Volume: 190ml
+Cost: LKR 2100.00
+Brand: Tresemme
+ItemVolume: 190ml
+ItemForm: Conditioner
+NetQuantity: 190.0ml
+KokoPay: 3 x LKR 700.00
+AboutThisItem: Infused with keratin and lightweight argan oil, this conditioner controls frizz, smoothens hair, and adds shine for up to 3 days.
+KeyFeatures: FrizzControl, KeratinAndArganOil, SmootherHair, SalonFinish
+HowToUse: Apply to wet hair after shampooing, focusing on mid-lengths to tips. Leave for 2–3 minutes and rinse.
+
+ProductName: TresemmeKeratinSmoothShampoo
+Volume: 185ml
+Cost: LKR 2100.00
+Brand: Tresemme
+ItemVolume: 185ml
+ItemForm: Shampoo
+NetQuantity: 185.0ml
+KokoPay: 3 x LKR 700.00
+AboutThisItem: Gently cleanses and nourishes hair with keratin and argan oil, leaving it straighter, shinier, and more manageable.
+KeyFeatures: FrizzTaming, KeratinProtein, SmoothShinyFinish
+HowToUse: Apply to wet hair, lather and massage, rinse thoroughly. Follow with Keratin Smooth Conditioner.
+
+ProductName: TresemmeBotaniqueNourishAndReplenishConditioner
+Volume: 190ml
+Cost: LKR 2100.00
+Brand: Tresemme
+ItemVolume: 190ml
+ItemForm: Conditioner
+NetQuantity: 190.0ml
+KokoPay: 3 x LKR 525.00
+AboutThisItem: Nourishing conditioner with olive oil and camellia oil, free from parabens and dyes, for soft and hydrated hair.
+KeyFeatures: BotanicalBlend, ParabenFree, DeepMoisture
+HowToUse: Apply after Botanique Shampoo, leave on for 2–3 minutes, rinse thoroughly.
+
+ProductName: TresemmeBotaniqueNourishAndReplenishShampoo
+Volume: 185ml
+Cost: LKR 2100.00
+Brand: Tresemme
+ItemVolume: 185ml
+ItemForm: Shampoo
+NetQuantity: 185.0ml
+KokoPay: 3 x LKR 525.00
+AboutThisItem: A gentle shampoo enriched with olive and camellia oils, designed to cleanse and replenish moisture for healthier hair.
+KeyFeatures: BotanicalCare, SulfateFree, HydratingCleanse
+HowToUse: Massage onto wet hair and scalp, lather, and rinse.
+
+ProductName: TresemmeKeratinSmoothAntiFrizzHairSerum
+Volume: 50ml
+Cost: LKR 1800.00
+Brand: Tresemme
+ItemVolume: 50ml
+ItemForm: HairSerum
+NetQuantity: 50.0ml
+KokoPay: 3 x LKR 600.00
+AboutThisItem: Serum that tames frizz, adds shine, and helps protect against humidity. Ideal for use after styling or before heat tools.
+KeyFeatures: FrizzControl, ShineBoost, LightweightFinish
+HowToUse: Dispense 1–2 pumps onto palms, apply evenly to damp or dry hair.
+
+ProductName: TresemmeKeratinSmoothShampoo
+Volume: 1L
+Cost: LKR 3400.00
+Brand: Tresemme
+ItemVolume: 1000ml
+ItemForm: Shampoo
+NetQuantity: 1L
+KokoPay: 3 x LKR 1133.33
+AboutThisItem: Large bottle of Tresemme’s salon-quality keratin and argan oil blend shampoo that ensures sleek, manageable hair for days.
+KeyFeatures: SalonSize, 72HourFrizzControl, DualActionFormula
+HowToUse: Apply to wet hair, lather, massage, rinse well.
+
+ProductName: TresemmeKeratinSmoothHairMask
+Volume: 300ml
+Cost: LKR 3250.00
+Brand: Tresemme
+ItemVolume: 300ml
+ItemForm: HairMask
+NetQuantity: 300.0ml
+KokoPay: 3 x LKR 1083.33
+AboutThisItem: Intensive treatment mask with argan oil that deeply nourishes and controls frizz for 3 days.
+KeyFeatures: DeepNourishment, AntiFrizzCare, SmoothFinish
+HowToUse: Apply on damp hair post shampoo, leave for 3 minutes, rinse.
+
+ProductName: TresemmeKeratinSmoothConditioner
+Volume: 1L
+Cost: LKR 3400.00
+Brand: Tresemme
+ItemVolume: 1000ml
+ItemForm: Conditioner
+NetQuantity: 1L
+KokoPay: 3 x LKR 1133.33
+AboutThisItem: Family-size keratin conditioner that intensely smooths and hydrates hair while maintaining shine and manageability.
+KeyFeatures: XLSize, ShineAndSmoothness, ProfessionalCare
+HowToUse: After shampoo, apply from mid-length to ends. Leave 2–3 mins and rinse.
+
+ProductName: TresemmeBondPlexRepairShampoo
+Volume: 185ml
+Cost: LKR 1600.00
+Brand: Tresemme
+ItemVolume: 185ml
+ItemForm: Shampoo
+NetQuantity: 185.0ml
+KokoPay: 3 x LKR 533.33
+AboutThisItem: Designed to strengthen hair from within by repairing broken bonds. Ideal for chemically treated and damaged hair.
+KeyFeatures: BondRepair, DamageProtection, StrongerHair
+HowToUse: Use on wet hair, lather gently and rinse. Follow with Bond Plex Conditioner.
+
+

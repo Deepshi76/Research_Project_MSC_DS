@@ -1,0 +1,57 @@
+Brand: Pureit
+ItemVolume: 9L
+ItemForm: WaterPurifier
+NetQuantity: 9.0L
+KokoPay: 3 x LKR 6,666.66
+AboutThisItem: Non-electric water purifier that provides safe drinking water by removing harmful bacteria and viruses.
+KeyFeatures: NonElectric, GermKillTechnology, SafeDrinkingWater
+HowToUse: Fill upper chamber with water; purified water collects in lower chamber.
+
+ProductName: PureitMarvellaUVG2WaterPurifier
+Volume: 4LPerHourFlowRate
+Cost: LKR 45,000.00
+Brand: Pureit
+ItemVolume: 4L/hr
+ItemForm: UVWaterPurifier
+NetQuantity: WallMountedSystem
+KokoPay: 3 x LKR 15,000.00
+AboutThisItem: UV-powered water purifier with advanced filtration and mineral enhancement. Designed for long-lasting protection against bacteria, viruses, and harmful contaminants.
+KeyFeatures: UVPurification, HighFlowRate, WallMounted, SmartIndicators
+HowToUse: Connect to tap. Turn on unit. Purified water dispenses automatically.
+
+ProductName: PureitUltimaRO+UVWaterPurifier
+Volume: 10L
+Cost: LKR 85,000.00
+Brand: Pureit
+ItemVolume: 10L
+ItemForm: RO+UVWaterPurifier
+NetQuantity: 10.0L
+KokoPay: 3 x LKR 28,333.33
+AboutThisItem: Advanced 7-stage purification with RO+UV+MF technology. Includes a digital purity indicator, mineral cartridge, and large water tank for continuous clean water.
+KeyFeatures: ROUVPurification, DigitalDisplay, MineralEnrichment, AdvancedSafetyLock
+HowToUse: Install with compatible plumbing. Operates automatically when tank level drops.
+
+ProductName: PureitClassicGermkillKit
+Volume: KitFor1500L
+Cost: LKR 2,500.00
+Brand: Pureit
+ItemVolume: Kit
+ItemForm: CartridgeSet
+NetQuantity: 1Set
+KokoPay: 3 x LKR 833.33
+AboutThisItem: Replacement Germkill Kit for Pureit Classic devices. Ensures uninterrupted water purification for up to 1500 liters.
+KeyFeatures: ReplacementKit, LongLifeFilter, SafeDrinkingWater
+HowToUse: Replace cartridge inside purifier housing as per indicator. Follow safety instructions.
+
+ProductName: PureitClassic23LWaterPurifier
+Volume: 23L
+Cost: LKR 23,000.00
+Brand: Pureit
+ItemVolume: 23L
+ItemForm: NonElectricPurifier
+NetQuantity: 23.0L
+KokoPay: 3 x LKR 7,666.66
+AboutThisItem: High-capacity non-electric purifier with multi-stage purification. Ideal for families, offices, and areas with irregular electricity.
+KeyFeatures: LargeCapacity, ElectricityFree, MultiStageFiltration
+HowToUse: Fill upper tank with water. Collect safe drinking water from bottom tank.
+

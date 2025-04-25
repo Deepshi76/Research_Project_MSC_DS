@@ -1,0 +1,74 @@
+Viva
+
+ProductName: VivaMaltedFoodDrinkSachet
+Volume: 28g
+Cost: LKR 70.00
+Brand: Viva
+ItemVolume: 28g
+ItemForm: Powder
+NetQuantity: 28.0g
+KokoPay: 3 x LKR 23.33
+AboutThisItem: Single-serve sachet of Viva malted food drink, enriched with B vitamins and iron, providing energy and nutrition for an active lifestyle.
+KeyFeatures: SingleServe, BVitaminEnriched, IronFortified, EnergyBoost
+HowToUse: Mix contents with warm milk or water, stir well, and consume immediately.
+
+ProductName: VivaMaltedFoodDrinkCarton
+Volume: 300g
+Cost: LKR 524.00
+Brand: Viva
+ItemVolume: 300g
+ItemForm: Powder
+NetQuantity: 300.0g
+KokoPay: 3 x LKR 174.66
+AboutThisItem: Carton pack of Viva malted food drink, offering the goodness of malt and milk, fortified with essential vitamins and minerals.
+KeyFeatures: CartonPack, MaltAndMilkBlend, NutrientRich, DailyNutrition
+HowToUse: Add 2 tablespoons to a glass of warm milk or water, stir until dissolved, and enjoy.
+
+ProductName: VivaMaltedFoodDrinkPouch
+Volume: 400g
+Cost: LKR 780.00
+Brand: Viva
+ItemVolume: 400g
+ItemForm: Powder
+NetQuantity: 400.0g
+KokoPay: 3 x LKR 260.00
+AboutThisItem: Pouch pack of Viva malted food drink, combining malt and milk with B vitamins and iron to support an active lifestyle.
+KeyFeatures: PouchPack, BVitaminEnriched, IronFortified, EnergyBoost
+HowToUse: Mix 2 tablespoons with warm milk or water, stir well, and consume.
+
+ProductName: VivaMaltedFoodDrinkCarton
+Volume: 400g
+Cost: LKR 800.00
+Brand: Viva
+ItemVolume: 400g
+ItemForm: Powder
+NetQuantity: 400.0g
+KokoPay: 3 x LKR 266.66
+AboutThisItem: Carton pack of Viva malted food drink, providing essential nutrients and energy for daily activities.
+KeyFeatures: CartonPack, NutrientRich, DailyEnergy, BVitaminEnriched
+HowToUse: Add 2 tablespoons to a glass of warm milk or water, stir until dissolved, and enjoy.
+
+ProductName: VivaMaltedFoodDrinkSuperSaverPack
+Volume: 600g
+Cost: LKR 1,060.00
+Brand: Viva
+ItemVolume: 600g
+ItemForm: Powder
+NetQuantity: 600.0g
+KokoPay: 3 x LKR 353.33
+AboutThisItem: Super Saver pack of Viva malted food drink, offering more servings with the same nutritional benefits of malt and milk.
+KeyFeatures: SuperSaverPack, ExtendedSupply, NutrientRich, EnergyBoost
+HowToUse: Mix 2 tablespoons with warm milk or water, stir well, and consume.
+
+ProductName: VivaMaltedFoodDrinkCarton
+Volume: 175g
+Cost: LKR 360.00
+Brand: Viva
+ItemVolume: 175g
+ItemForm: Powder
+NetQuantity: 175.0g
+KokoPay: 3 x LKR 120.00
+AboutThisItem: Compact carton of Viva malted food drink, ideal for smaller households or trial use, enriched with essential vitamins and minerals.
+KeyFeatures: CompactCarton, NutrientRich, BVitaminEnriched, IronFortified
+HowToUse: Add 2 tablespoons to a glass of warm milk or water, stir until dissolved, and enjoy.
+

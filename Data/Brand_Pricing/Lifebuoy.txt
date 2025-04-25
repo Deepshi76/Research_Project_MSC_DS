@@ -1,0 +1,62 @@
+Lifebuoy
+
+ProductName: LifebuoyTotal10GermProtectionSoap
+Volume: 100g
+Cost: LKR 180.00
+Brand: Lifebuoy
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 60.00
+AboutThisItem: Lifebuoy Total 10 Soap gives 99.9% germ protection and helps strengthen the skin's natural defense. Ideal for daily hygiene and protection from infections.
+KeyFeatures: GermProtection, ActiveSilverFormula, EverydayUse
+HowToUse: Apply on wet skin, lather well, scrub gently, and rinse.
+
+ProductName: LifebuoyCareSoap
+Volume: 100g
+Cost: LKR 180.00
+Brand: Lifebuoy
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 60.00
+AboutThisItem: Gentle care soap enriched with milk cream and moisturizing ingredients, suitable for sensitive skin while maintaining hygiene.
+KeyFeatures: GentleOnSkin, CreamyLather, SoftSkinFeel
+HowToUse: Wet skin, apply soap directly or with loofah, and rinse off completely.
+
+ProductName: LifebuoyLemonFreshSoap
+Volume: 100g
+Cost: LKR 180.00
+Brand: Lifebuoy
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 60.00
+AboutThisItem: Enriched with citrus extracts, this soap leaves your skin fresh and energised while fighting 99.9% of germs.
+KeyFeatures: LemonFreshScent, DeepCleanse, GermProtection
+HowToUse: Use with water to lather all over the body, rinse thoroughly.
+
+ProductName: LifebuoyCoolFreshSoap
+Volume: 100g
+Cost: LKR 180.00
+Brand: Lifebuoy
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 60.00
+AboutThisItem: With the power of menthol, this soap gives a cooling sensation and protects from germs while keeping the body refreshed.
+KeyFeatures: MentholCool, BodyFreshness, DailyGermDefense
+HowToUse: Apply on wet skin, create lather and rinse well.
+
+ProductName: LifebuoyNatureSoap
+Volume: 100g
+Cost: LKR 180.00
+Brand: Lifebuoy
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 60.00
+AboutThisItem: Herbal variant with neem and natural ingredients, combining germ protection and skin purification.
+KeyFeatures: HerbalCare, NeemPurification, AntiBacterialCleanse
+HowToUse: Use daily on wet skin for natural hygiene and protection.
+

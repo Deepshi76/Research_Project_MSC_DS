@@ -1,0 +1,110 @@
+Rexona
+
+ProductName: RexonaWomenAloeVeraRollOnDeodorant
+Volume: 50ml
+Cost: LKR 850.00
+Brand: Rexona
+ItemVolume: 50ml
+ItemForm: RollOnDeodorant
+NetQuantity: 50.0ml
+KokoPay: 3 x LKR 283.33
+AboutThisItem: Rexona Aloe Vera Roll-On offers 48-hour protection with SWEATGUARD technology. Designed to stop odor where it starts, it leaves your underarms dry and fresh with a light aloe scent. Alcohol-free and dermatologist-tested for everyday use.
+KeyFeatures: 48HourProtection, AlcoholFree, SweatAndOdorControl, DermatologistTested
+HowToUse: Apply daily on clean, dry underarms. No need to reapply.
+
+ProductName: RexonaPowderDryRollOnDeodorant
+Volume: 50ml
+Cost: LKR 850.00
+Brand: Rexona
+ItemVolume: 50ml
+ItemForm: RollOnDeodorant
+NetQuantity: 50.0ml
+KokoPay: 3 x LKR 283.33
+AboutThisItem: Offers long-lasting freshness with a soft powdery scent. Rexona Powder Dry Roll-On is perfect for everyday use and keeps sweat and odor at bay all day.
+KeyFeatures: PowderyScent, LongLastingFreshness, 48HourProtection, NoReapplicationNeeded
+HowToUse: Roll on to clean and dry underarms every morning.
+
+ProductName: RexonaJasmineAndOliveOilRefreshingSoap
+Volume: 80g
+Cost: LKR 110.00
+Brand: Rexona
+ItemVolume: 80g
+ItemForm: Soap
+NetQuantity: 80.0g
+KokoPay: 3 x LKR 36.66
+AboutThisItem: Refreshing soap bar infused with jasmine and olive oil to cleanse and care for your skin with a soothing aroma.
+KeyFeatures: JasmineAndOliveOil, SkinSoftening, RefreshingFragrance
+HowToUse: Lather with water and gently massage onto skin. Rinse thoroughly.
+
+ProductName: RexonaRoseAndHoneyRefreshingSoap
+Volume: 80g
+Cost: LKR 110.00
+Brand: Rexona
+ItemVolume: 80g
+ItemForm: Soap
+NetQuantity: 80.0g
+KokoPay: 3 x LKR 36.66
+AboutThisItem: A skin-loving soap bar with the sweet aroma of rose and nourishing honey. Helps retain skin moisture while keeping you fresh.
+KeyFeatures: RoseAndHoneyInfused, Moisturizing, PleasantFragrance
+HowToUse: Lather with water, apply on body, and rinse.
+
+ProductName: RexonaKohombaAndTurmericRefreshingSoap
+Volume: 80g
+Cost: LKR 110.00
+Brand: Rexona
+ItemVolume: 80g
+ItemForm: Soap
+NetQuantity: 80.0g
+KokoPay: 3 x LKR 36.66
+AboutThisItem: Herbal soap enriched with Kohomba (neem) and turmeric to cleanse and protect the skin naturally.
+KeyFeatures: HerbalFormula, NeemAndTurmeric, DeepCleansing
+HowToUse: Work into a rich lather, apply gently, and rinse thoroughly.
+
+ProductName: RexonaPowderDryRollOnDeodorant
+Volume: 25ml
+Cost: LKR 470.00
+Brand: Rexona
+ItemVolume: 25ml
+ItemForm: RollOnDeodorant
+NetQuantity: 25.0ml
+KokoPay: 3 x LKR 156.66
+AboutThisItem: Compact version of the Powder Dry variant with the same long-lasting protection and powdery freshness in a travel-friendly size.
+KeyFeatures: SmallSize, PowderDryProtection, DailyFreshness
+HowToUse: Use on clean underarms every day.
+
+ProductName: RexonaWomenAloeVeraRollOnDeodorant
+Volume: 25ml
+Cost: LKR 470.00
+Brand: Rexona
+ItemVolume: 25ml
+ItemForm: RollOnDeodorant
+NetQuantity: 25.0ml
+KokoPay: 3 x LKR 156.66
+AboutThisItem: Travel-size aloe vera deodorant with 48-hour protection and a calm, cooling scent.
+KeyFeatures: CompactRollOn, AloeScent, SweatGuardTech
+HowToUse: Apply on clean, dry underarms. Ideal for travel and gym bags.
+
+ProductName: Rexona Sports Defence Roll On Deodorant
+Volume: 50ml
+Cost: LKR 850.00
+Brand: Rexona
+ItemVolume: 50ml
+ItemForm: RollOnDeodorant
+NetQuantity: 50.0ml
+KokoPay: 3 x LKR 226.66
+AboutThisItem: Engineered for active lifestyles, it keeps you fresh during sports, workouts, and high-intensity days.
+KeyFeatures: SweatResistance, SportyFreshness, 48HourProtection
+HowToUse: Roll on after bath, before and after workouts.
+
+ProductName: RexonaShowerFreshRollOnDeodorant
+Volume: 50ml
+Cost: LKR 850.00
+Brand: Rexona
+ItemVolume: 50ml
+ItemForm: RollOnDeodorant
+NetQuantity: 50.0ml
+KokoPay: 3 x LKR 226.66
+AboutThisItem: Provides a clean, crisp shower-fresh scent all day long with high-performance odor protection.
+KeyFeatures: ShowerFreshScent, AllDayProtection, NoReapplication
+HowToUse: Apply on clean underarms in the morning for freshness that lasts.
+

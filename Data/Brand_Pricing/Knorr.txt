@@ -1,0 +1,121 @@
+Knorr
+ProductName: KnorrProfessionalChickenSeasoningPowder
+Volume: 1kg
+Cost: LKR 1,500.00
+Brand: Knorr
+ItemVolume: 1kg
+ItemForm: Powder
+NetQuantity: 1.0kg
+KokoPay: 3 x LKR 500.00
+AboutThisItem: Made with real chicken, this seasoning powder enhances the flavor of dishes, ideal for seasoning, marination, and stock preparation.
+KeyFeatures: RealChickenFlavor, VersatileUse, TimeSaving
+HowToUse: Add 20g to 1L of boiling water for stock or use directly in recipes.
+
+ProductName: KnorrBiryaniMix
+Volume: 500g
+Cost: LKR 1,200.00
+Brand: Knorr
+ItemVolume: 500g
+ItemForm: Powder
+NetQuantity: 500.0g
+KokoPay: 3 x LKR 400.00
+AboutThisItem: A blend of spices tailored for authentic biryani preparation, ensuring consistent taste and aroma in every batch.
+KeyFeatures: AuthenticSpiceBlend, ConsistentFlavor, EasyToUse
+HowToUse: Mix with rice and meat during cooking as per recipe requirements.
+
+ProductName: KnorrIkanBilisSeasoningPowder
+Volume: 1kg
+Cost: LKR 1,500.00
+Brand: Knorr
+ItemVolume: 1kg
+ItemForm: Powder
+NetQuantity: 1.0kg
+KokoPay: 3 x LKR 500.00
+AboutThisItem: Anchovy-based seasoning powder that imparts a savory umami flavor, perfect for Asian cuisines.
+KeyFeatures: AnchovyFlavor, UmamiBoost, IdealForAsianDishes
+HowToUse: Sprinkle as needed during cooking to enhance flavor.
+
+ProductName: KnorrProfessionalSpicyMarinade
+Volume: 900g
+Cost: LKR 1,300.00
+Brand: Knorr
+ItemVolume: 900g
+ItemForm: Paste
+NetQuantity: 900.0g
+KokoPay: 3 x LKR 433.33
+AboutThisItem: Ready-to-use spicy marinade that adds depth and heat to meats and vegetables, streamlining preparation time.
+KeyFeatures: ReadyToUse, SpicyFlavor, VersatileApplication
+HowToUse: Coat ingredients evenly and let marinate before cooking.
+
+ProductName: KnorrProfessionalCrispyCoatingMix
+Volume: 870g
+Cost: LKR 1,200.00
+Brand: Knorr
+ItemVolume: 870g
+ItemForm: Powder
+NetQuantity: 870.0g
+KokoPay: 3 x LKR 400.00
+AboutThisItem: A blend designed for a crispy texture, ideal for frying applications, ensuring a golden and crunchy finish.
+KeyFeatures: CrispyTexture, GoldenFinish, EasyApplication
+HowToUse: Dredge items in mix before frying for optimal crispiness.
+
+ProductName: KnorrLimeSeasoningPowder
+Volume: 400g
+Cost: LKR 800.00
+Brand: Knorr
+ItemVolume: 400g
+ItemForm: Powder
+NetQuantity: 400.0g
+KokoPay: 3 x LKR 266.66
+AboutThisItem: Lime-flavored seasoning powder that adds a zesty kick to dishes, enhancing freshness and flavor.
+KeyFeatures: ZestyFlavor, EnhancesFreshness, VersatileUse
+HowToUse: Sprinkle as desired to impart a lime flavor to dishes.
+
+ProductName: KnorrDemiGlaceBrownSauceMix
+Volume: 1kg
+Cost: LKR 1,600.00
+Brand: Knorr
+ItemVolume: 1kg
+ItemForm: Powder
+NetQuantity: 1.0kg
+KokoPay: 3 x LKR 533.33
+AboutThisItem: Classic brown sauce mix that delivers a rich and deep flavor, suitable for various meat dishes.
+KeyFeatures: RichFlavor, ClassicSauce, EasyPreparation
+HowToUse: Mix with water and simmer to desired consistency.
+
+ProductName: KnorrAromatSeasoningPowder
+Volume: 1kg
+Cost: LKR 1,500.00
+Brand: Knorr
+ItemVolume: 1kg
+ItemForm: Powder
+NetQuantity: 1.0kg
+KokoPay: 3 x LKR 500.00
+AboutThisItem: Universal seasoning that enhances the taste of a wide range of dishes, providing a balanced flavor profile.
+KeyFeatures: UniversalSeasoning, BalancedFlavor, EnhancesTaste
+HowToUse: Sprinkle during cooking or at the table to enhance flavor.
+
+ProductName: KnorrTomatoPronto
+Volume: 2kg
+Cost: LKR 1,800.00
+Brand: Knorr
+ItemVolume: 2kg
+ItemForm: Paste
+NetQuantity: 2.0kg
+KokoPay: 3 x LKR 600.00
+AboutThisItem: Ready-to-use tomato paste that offers a rich tomato flavor, ideal for sauces and stews.
+KeyFeatures: RichTomatoFlavor, ReadyToUse, IdealForSauces
+HowToUse: Use directly in recipes requiring tomato paste.
+
+ProductName: KnorrCreamOfMushroomSoup
+Volume: 1kg
+Cost: LKR 1,400.00
+Brand: Knorr
+ItemVolume: 1kg
+ItemForm: Powder
+NetQuantity: 1.0kg
+KokoPay: 3 x LKR 466.66
+AboutThisItem: Creamy mushroom soup mix that delivers a smooth texture and rich flavor, suitable as a starter or base.
+KeyFeatures: CreamyTexture, RichFlavor
+
+

@@ -1,0 +1,33 @@
+Brand: Vim
+ItemVolume: 250ml
+ItemForm: Liquid
+NetQuantity: 250.0ml
+KokoPay: 3 x LKR 95.00
+AboutThisItem: Dishwashing liquid that cuts through grease and removes tough stains, leaving utensils sparkling clean.
+KeyFeatures: GreaseCutting, ToughStainRemoval, SparklingClean
+HowToUse: Dilute a few drops in water or apply directly to sponge; scrub utensils and rinse.
+
+ProductName: VimDishwashBar
+Volume: 100g
+Cost: LKR 135.00
+Brand: Vim
+ItemVolume: 100g
+ItemForm: Bar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 45.00
+AboutThisItem: Dishwash bar infused with the power of 100 lemons, effectively removing grease and stains from utensils.
+KeyFeatures: LemonPower, GreaseRemoval, ToughStainCleaning
+HowToUse: Apply bar on wet scrubber, scrub utensils, and rinse thoroughly.
+
+ProductName: VimFloorCleaner
+Volume: 500ml
+Cost: LKR 425.00
+Brand: Vim
+ItemVolume: 500ml
+ItemForm: Liquid
+NetQuantity: 500.0ml
+KokoPay: 3 x LKR 141.66
+AboutThisItem: Floor cleaner that kills 99.9% of germs and removes dirt and stains, leaving floors clean and fresh.
+KeyFeatures: GermKill, DirtRemoval, FreshFragrance
+HowToUse: Mix 1 capful in half a bucket of water; mop floor and let it dry.
+

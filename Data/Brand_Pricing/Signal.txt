@@ -1,0 +1,195 @@
+Signal
+
+ProductName: SignalStrongTeethToothpaste
+Volume: 160g
+Cost: LKR 280.00
+Brand: Signal
+ItemVolume: 160g
+ItemForm: Toothpaste
+NetQuantity: 160.0g
+KokoPay: 3 x LKR 93.33
+AboutThisItem: Signal Strong Teeth toothpaste with Micro-Calcium and Pro-Fluoride Complex protects against cavities and strengthens enamel both day and night.
+KeyFeatures: DualActionFormula, CavityProtection, EnamelStrengthening
+HowToUse: Brush teeth thoroughly twice a day. Rinse after brushing. Do not swallow.
+
+ProductName: SignalStrongTeethToothpaste
+Volume: 200g
+Cost: LKR 360.00
+Brand: Signal
+ItemVolume: 200g
+ItemForm: Toothpaste
+NetQuantity: 200.0g
+KokoPay: 3 x LKR 120.00
+AboutThisItem: Strengthens teeth and repairs microscopic holes in enamel. Provides 24/7 protection from food and drink-induced decay.
+KeyFeatures: LongLastingProtection, StrengthensEnamel, DailyUse
+HowToUse: Brush thoroughly after meals. Rinse completely.
+
+ProductName: SignalDeepCleanToothbrush
+Volume: 1Unit
+Cost: LKR 160.00
+Brand: Signal
+ItemVolume: 1Toothbrush
+ItemForm: ManualBrush
+NetQuantity: 1Unit
+KokoPay: 3 x LKR 53.33
+AboutThisItem: Deep Clean toothbrush designed for effective removal of plaque and debris from teeth and gums.
+KeyFeatures: ManualBrush, GentleOnGums, DeepCleanDesign
+HowToUse: Use twice daily for optimal results.
+
+ProductName: SignalFighterDoublePack
+Volume: 2Brushes
+Cost: LKR 250.00
+Brand: Signal
+ItemVolume: DoublePack
+ItemForm: Toothbrush
+NetQuantity: 2Units
+KokoPay: 3 x LKR 83.33
+AboutThisItem: Double-pack toothbrushes with angled handles and index-finger shaped heads for easy reach and effective cleaning.
+KeyFeatures: ErgonomicHandle, EasyReach, DualPack
+HowToUse: Use circular motions to brush all surfaces of the teeth.
+
+ProductName: SignalJuniorToothbrush
+Volume: 1Unit
+Cost: LKR 160.00
+Brand: Signal
+ItemVolume: 1Toothbrush
+ItemForm: KidsBrush
+NetQuantity: 1Unit
+KokoPay: 3 x LKR 53.33
+AboutThisItem: Soft-rounded bristles and a small head for gentle cleaning of kids' teeth. Includes a sucker base for fun placement.
+KeyFeatures: SafeForKids, FunDesign, SoftBristles
+HowToUse: Brush under adult supervision. Use twice daily.
+
+ProductName: SignalStrongTeethToothpaste
+Volume: 120g
+Cost: LKR 240.00
+Brand: Signal
+ItemVolume: 120g
+ItemForm: Toothpaste
+NetQuantity: 120.0g
+KokoPay: 3 x LKR 80.00
+AboutThisItem: Micro-Calcium formula strengthens enamel and prevents cavities. Day and night cavity-fighting protection.
+KeyFeatures: MicroCalcium, FluorideProtection, EnamelRepair
+HowToUse: Apply pea-sized amount, brush thoroughly, and rinse.
+
+ProductName: SignalTripleProtection123Toothpaste
+Volume: 120g
+Cost: LKR 360.00
+Brand: Signal
+ItemVolume: 120g
+ItemForm: Toothpaste
+NetQuantity: 120.0g
+KokoPay: 3 x LKR 120.00
+AboutThisItem: Offers cavity protection, stain removal, and breath freshness. Formulated with fluoride, calcium, and Perlite.
+KeyFeatures: TripleAction, CavityControl, MintFreshness
+HowToUse: Brush twice daily. Avoid swallowing.
+
+ProductName: SignalFighterSoftToothbrush
+Volume: 1Unit
+Cost: LKR 130.00
+Brand: Signal
+ItemVolume: 1Toothbrush
+ItemForm: ManualBrush
+NetQuantity: 1Unit
+KokoPay: 3 x LKR 43.33
+AboutThisItem: Features M-shaped bristles, three-angled neck, and fingertip-sized head for deep and precise cleaning.
+KeyFeatures: DeepReachHead, MShapedBristles, SoftBrush
+HowToUse: Brush at a 45-degree angle using circular motions. Replace when bristles wear.
+
+ProductName: SignalDeepCleanDoublePack
+Volume: 2Brushes
+Cost: LKR 280.00
+Brand: Signal
+ItemVolume: DoublePack
+ItemForm: ManualBrush
+NetQuantity: 2Units
+KokoPay: 3 x LKR 93.33
+AboutThisItem: V-shaped bristles and tongue cleaner for 360° oral hygiene. Ergonomic handle for grip.
+KeyFeatures: DualBrush, TongueCleaner, DeepCleanAction
+HowToUse: Use twice daily. Rinse brush after each use.
+
+ProductName: SignalStrawberryKidsToothpaste
+Volume: 40g
+Cost: LKR 160.00
+Brand: Signal
+ItemVolume: 40g
+ItemForm: KidsToothpaste
+NetQuantity: 40.0g
+KokoPay: 3 x LKR 53.33
+AboutThisItem: Fluoride toothpaste with sugar-acid protection and mild strawberry flavor. Specially designed for children’s teeth.
+KeyFeatures: KidSafe, StrawberryFlavor, CavityProtection
+HowToUse: Use a pea-sized amount. Brush under adult supervision.
+
+ProductName: SignalTripleProtection123Toothpaste
+Volume: 70g
+Cost: LKR 260.00
+Brand: Signal
+ItemVolume: 70g
+ItemForm: Toothpaste
+NetQuantity: 70.0g
+KokoPay: 3 x LKR 86.66
+AboutThisItem: Cavity protection with fluoride and calcium. Removes stains and keeps breath fresh.
+KeyFeatures: MintFreshness, StainRemoval, CavityShield
+HowToUse: Brush gently on all sides and rinse.
+
+ProductName: SignalOrangeKidsToothpaste
+Volume: 40g
+Cost: LKR 160.00
+Brand: Signal
+ItemVolume: 40g
+ItemForm: KidsToothpaste
+NetQuantity: 40.0g
+KokoPay: 3 x LKR 53.33
+AboutThisItem: Orange-flavored fluoride toothpaste designed for children with low foam and gentle cleaning action.
+KeyFeatures: KidFriendly, SugarAcidProtection, OrangeFlavor
+HowToUse: Use small amount. Brush with adult supervision.
+
+ProductName: SignalHerbalToothpaste
+Volume: 120g
+Cost: LKR 240.00
+Brand: Signal
+ItemVolume: 120g
+ItemForm: HerbalToothpaste
+NetQuantity: 120.0g
+KokoPay: 3 x LKR 80.00
+AboutThisItem: Herbal-based daily protection toothpaste combining traditional ingredients with fluoride.
+KeyFeatures: HerbalBlend, FluorideCare, FreshBreath
+HowToUse: Brush twice a day for best results.
+
+ProductName: SignalTripleCleanToothbrushMedium
+Volume: 1Unit
+Cost: LKR 105.00
+Brand: Signal
+ItemVolume: 1Brush
+ItemForm: ManualToothbrush
+NetQuantity: 1Unit
+KokoPay: 3 x LKR 35.00
+AboutThisItem: Triple-action medium toothbrush designed for effective cleaning of teeth, tongue, and gums.
+KeyFeatures: MediumBrush, MultiSurfaceCleaning, TongueScraper
+HowToUse: Brush in circular motion for full coverage.
+
+ProductName: SignalTripleCleanToothbrushSoft
+Volume: 1Unit
+Cost: LKR 105.00
+Brand: Signal
+ItemVolume: 1Brush
+ItemForm: ManualToothbrush
+NetQuantity: 1Unit
+KokoPay: 3 x LKR 35.00
+AboutThisItem: Soft variant of the Triple Clean brush for gentle but effective cleaning. Suitable for sensitive gums.
+KeyFeatures: SoftBristles, GumCare, FullMouthCleaning
+HowToUse: Brush with light pressure to protect gums.
+
+ProductName: SignalCharcoalWhiteToothpaste
+Volume: 120g
+Cost: LKR 360.00
+Brand: Signal
+ItemVolume: 120g
+ItemForm: Toothpaste
+NetQuantity: 120.0g
+KokoPay: 3 x LKR 120.00
+AboutThisItem: Infused with charcoal and lemon essence for natural whitening and bacterial control.
+KeyFeatures: CharcoalCleanse, LemonFreshness, NaturalWhitening
+HowToUse: Use twice daily for visible whitening results.
+
+

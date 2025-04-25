@@ -1,0 +1,70 @@
+Brand: SurfExcel
+ItemVolume: 1kg
+ItemForm: Powder
+NetQuantity: 1.0kg
+KokoPay: 3 x LKR 226.66
+AboutThisItem: Specially designed for top-load washing machines, this detergent powder ensures deep cleaning and care for your clothes.
+KeyFeatures: TopLoadOptimized, DeepCleaning, FabricCare
+HowToUse: Use as per machine instructions; typically 1 scoop per load.
+
+ProductName: SurfExcelMaticTopLoadLiquidDetergent
+Volume: 1L
+Cost: LKR 949.00
+Brand: SurfExcel
+ItemVolume: 1L
+ItemForm: Liquid
+NetQuantity: 1.0L
+KokoPay: 3 x LKR 316.33
+AboutThisItem: Liquid detergent formulated for top-load machines, providing effective stain removal and fabric care.
+KeyFeatures: LiquidForm, StainRemoval, TopLoadCompatible
+HowToUse: Pour recommended amount into machine dispenser; follow machine guidelines.
+
+ProductName: SurfExcelWithComfortDetergentPowder
+Volume: 750g
+Cost: LKR 506.00
+Brand: SurfExcel
+ItemVolume: 750g
+ItemForm: Powder
+NetQuantity: 750.0g
+KokoPay: 3 x LKR 168.66
+AboutThisItem: Combines the cleaning power of Surf Excel with the softness of Comfort fabric conditioner for fresh and soft clothes.
+KeyFeatures: DualAction, SoftnessEnhancer, FreshFragrance
+HowToUse: Use appropriate amount per load; adjust for soil level.
+
+ProductName: SurfExcelWithComfortDetergentPowder
+Volume: 1kg
+Cost: LKR 540.00
+Brand: SurfExcel
+ItemVolume: 1kg
+ItemForm: Powder
+NetQuantity: 1.0kg
+KokoPay: 3 x LKR 180.00
+AboutThisItem: Enhanced with Comfort fabric conditioner, this detergent ensures clean, soft, and fragrant clothes.
+KeyFeatures: ComfortInfused, DeepClean, LongLastingFragrance
+HowToUse: Add 1 scoop per load; adjust for heavily soiled clothes.
+
+ProductName: SurfExcelWithComfortDetergentPowder
+Volume: 250g
+Cost: LKR 150.00
+Brand: SurfExcel
+ItemVolume: 250g
+ItemForm: Powder
+NetQuantity: 250.0g
+KokoPay: 3 x LKR 50.00
+AboutThisItem: Compact pack combining Surf Excel's cleaning power with Comfort's softness for everyday laundry needs.
+KeyFeatures: CompactPack, DualBenefit, EverydayUse
+HowToUse: Use half a scoop per load; suitable for small washes.
+
+ProductName: SurfExcelQuickWashDetergentPowder
+Volume: 400g
+Cost: LKR 19.99 (approx. USD)
+Brand: SurfExcel
+ItemVolume: 400g
+ItemForm: Powder
+NetQuantity: 400.0g
+KokoPay: 3 x LKR 6.66
+AboutThisItem: Original Ceylon variant designed for quick and effective stain removal, saving time and effort.
+KeyFeatures: QuickWashFormula, StainRemoval, TimeSaving
+HowToUse: Add required amount to water; soak clothes briefly and wash.
+
+

@@ -1,0 +1,95 @@
+Brand: Sunlight
+ItemVolume: 120g
+ItemForm: BarSoap
+NetQuantity: 120.0g
+KokoPay: 3 x LKR 20.00
+AboutThisItem: Classic yellow laundry soap bar known for its gentle yet effective cleaning, suitable for handwashing clothes.
+KeyFeatures: GentleCleaning, FreshScent, TrustedBrand
+HowToUse: Wet the fabric, apply soap directly, lather, and rinse thoroughly.
+
+ProductName: SunlightDetergentPowder2in1CleanAndRoseFresh
+Volume: 1kg
+Cost: LKR 195.00
+Brand: Sunlight
+ItemVolume: 1kg
+ItemForm: Powder
+NetQuantity: 1.0kg
+KokoPay: 3 x LKR 65.00
+AboutThisItem: Combines cleaning power with a fresh rose fragrance, suitable for both hand and machine washing.
+KeyFeatures: DeepClean, RoseFragrance, DualUse
+HowToUse: Use 1 scoop for regular loads; adjust quantity for heavily soiled clothes.
+
+ProductName: SunlightFragranceAndClean2in1DetergentPowder
+Volume: 400g
+Cost: LKR 170.00
+Brand: Sunlight
+ItemVolume: 400g
+ItemForm: Powder
+NetQuantity: 400.0g
+KokoPay: 3 x LKR 56.66
+AboutThisItem: Provides effective cleaning with a lasting fragrance, ideal for daily laundry needs.
+KeyFeatures: EffectiveCleaning, LongLastingFragrance, DailyUse
+HowToUse: Add appropriate amount to water, soak clothes, wash, and rinse.
+
+ProductName: SunlightCareLiquidDetergent
+Volume: 1L
+Cost: LKR 550.00
+Brand: Sunlight
+ItemVolume: 1L
+ItemForm: Liquid
+NetQuantity: 1.0L
+KokoPay: 3 x LKR 183.33
+AboutThisItem: Liquid detergent formulated for gentle care, ensuring clothes remain soft and fresh after every wash.
+KeyFeatures: GentleOnFabric, EasyRinse, FreshScent
+HowToUse: Pour 1 capful into washing machine or bucket; proceed with washing as usual.
+
+ProductName: SunlightCareNaturalsSoap
+Volume: 100g
+Cost: LKR 50.00
+Brand: Sunlight
+ItemVolume: 100g
+ItemForm: BarSoap
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 16.66
+AboutThisItem: Enriched with coconut water and neem, this soap offers natural care and effective cleaning.
+KeyFeatures: CoconutWater, NeemExtract, NaturalCare
+HowToUse: Apply on wet clothes, lather, and rinse thoroughly.
+
+ProductName: SunlightCareNaturalsDetergentPowder
+Volume: 1kg
+Cost: LKR 220.00
+Brand: Sunlight
+ItemVolume: 1kg
+ItemForm: Powder
+NetQuantity: 1.0kg
+KokoPay: 3 x LKR 73.33
+AboutThisItem: Combines natural ingredients like coconut water and neem for deep cleaning and fabric care.
+KeyFeatures: NaturalIngredients, DeepClean, FabricCare
+HowToUse: Use 1 scoop per load; adjust for larger or heavily soiled loads.
+
+ProductName: SunlightCareNaturalsLiquidDetergent
+Volume: 1L
+Cost: LKR 325.00
+Brand: Sunlight
+ItemVolume: 1L
+ItemForm: Liquid
+NetQuantity: 1.0L
+KokoPay: 3 x LKR 108.33
+AboutThisItem: Liquid detergent with natural extracts, providing gentle care and a soothing lavender fragrance.
+KeyFeatures: NaturalExtracts, GentleCare, LavenderFragrance
+HowToUse: Add 1 capful to washing machine or bucket; wash and rinse as usual.
+
+ProductName: SunlightAfterWashFloralBlissFabricConditioner
+Volume: 400ml
+Cost: LKR 300.00
+Brand: Sunlight
+ItemVolume: 400ml
+ItemForm: Liquid
+NetQuantity: 400.0ml
+KokoPay: 3 x LKR 100.00
+AboutThisItem: Fabric conditioner that leaves clothes soft with a lingering floral fragrance.
+KeyFeatures: SoftensFabric, FloralFragrance, EasyIroning
+HowToUse: Add during the final rinse cycle; do not rinse again.
+
+
+

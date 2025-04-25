@@ -1,0 +1,46 @@
+Brand: GlowAndLovely
+ItemVolume: 50g
+ItemForm: Cream
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 216.66
+AboutThisItem: Powered by multivitamins B3, C, and E, this skin expert formula works from within to reduce dark spots, brighten tone, and protect from UV damage with SPF 15.
+KeyFeatures: MultivitaminGlow, SPF15Protection, NonOily, DermatologicallyTested
+HowToUse: Apply twice daily on cleansed skin. Massage gently until absorbed.
+
+ProductName: GlowAndLovelyInstantGlowFaceWash
+Volume: 50g
+Cost: LKR 600.00
+Brand: GlowAndLovely
+ItemVolume: 50g
+ItemForm: Facewash
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 200.00
+AboutThisItem: Gentle face wash that cleanses dirt and oil while enhancing instant glow. Pairs best with Glow & Lovely cream for radiant results.
+KeyFeatures: InstantGlow, DirtRemoval, OilControl
+HowToUse: Use twice daily. Follow with Glow & Lovely cream.
+
+ProductName: GlowAndLovelyPowderFinishCreme
+Volume: 25g
+Cost: LKR 465.00
+Brand: GlowAndLovely
+ItemVolume: 25g
+ItemForm: Cream
+NetQuantity: 25.0g
+KokoPay: 3 x LKR 155.00
+AboutThisItem: A matte-finish cream with multivitamins and powder-like effect for long-lasting oil control and instant brightness.
+KeyFeatures: PowderFinish, 24HourOilControl, MatteGlow, MultivitaminEnriched
+HowToUse: Dot on face and neck. Massage evenly for a smooth finish.
+
+ProductName: GlowAndLovelyPowderFinishCreme
+Volume: 50g
+Cost: LKR 880.00
+Brand: GlowAndLovely
+ItemVolume: 50g
+ItemForm: Cream
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 293.33
+AboutThisItem: Same formulation as the 25g variant with double quantity for lasting matte radiance.
+KeyFeatures: OilFreeGlow, MatteLightFeel, DailyUse
+HowToUse: Apply in small dots and blend over face and neck.
+
+

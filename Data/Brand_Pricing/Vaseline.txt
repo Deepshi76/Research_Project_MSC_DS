@@ -1,0 +1,64 @@
+Vaseline
+ProductName: VaselineHealthyBrightGlutaHyaSerumBurstLotionDewyRadiance
+Volume: 330ml
+Cost: LKR 5,310.00
+Brand: Vaseline
+ItemVolume: 330ml
+ItemForm: Lotion
+NetQuantity: 330.0ml
+KokoPay: 3 x LKR 1,770.00
+AboutThisItem: Infused with Gluta-Hya serum, this lotion provides dewy radiance and deep hydration, enhancing skin brightness.
+KeyFeatures: GlutaHyaSerum, DewyRadiance, DeepHydration
+HowToUse: Apply daily all over the body for radiant, hydrated skin.​
+
+ProductName: VaselineCocoaGlowIntensiveCareBodyLotion
+Volume: 400ml
+Cost: LKR 2,950.00
+Brand: Vaseline
+ItemVolume: 400ml
+ItemForm: Lotion
+NetQuantity: 400.0ml
+KokoPay: 3 x LKR 983.33
+AboutThisItem: Enriched with cocoa butter, this lotion deeply moisturizes, leaving skin soft and glowing.
+KeyFeatures: CocoaButter, DeepMoisturization, SoftGlowingSkin
+HowToUse: Massage onto skin daily, focusing on dry areas.​
+Sugar World
+
+ProductName: VaselineLipTherapyRosyLips
+Volume: 20g
+Cost: LKR 1,500.00
+Brand: Vaseline
+ItemVolume: 20g
+ItemForm: LipBalm
+NetQuantity: 20.0g
+KokoPay: 3 x LKR 500.00
+AboutThisItem: Provides long-lasting moisture and a rosy tint, keeping lips soft and smooth.
+KeyFeatures: LongLastingMoisture, RosyTint, SoftSmoothLips
+HowToUse: Apply to lips as needed throughout the day.​
+
+
+ProductName: VaselineBlueSealPurePetroleumJellyOriginal
+Volume: 100ml
+Cost: LKR 1,450.00
+Brand: Vaseline
+ItemVolume: 100ml
+ItemForm: Jelly
+NetQuantity: 100.0ml
+KokoPay: 3 x LKR 483.33
+AboutThisItem: A versatile moisturizer that protects and locks in moisture for dry skin.
+KeyFeatures: MoistureLock, SkinProtection, VersatileUse
+HowToUse: Apply as needed to dry or chapped skin.​
+
+ProductName: VaselineAdvancedRepairBodyLotion
+Volume: 400ml
+Cost: LKR 2,950.00
+Brand: Vaseline
+ItemVolume: 400ml
+ItemForm: Lotion
+NetQuantity: 400.0ml
+KokoPay: 3 x LKR 983.33
+AboutThisItem: Clinically proven to heal very dry skin in 5 days, restoring moisture and softness.
+KeyFeatures: HealsDrySkin, RestoresMoisture, Softness
+HowToUse: Use daily for best results, especially after bathing.​
+Cosmetics.lk
+

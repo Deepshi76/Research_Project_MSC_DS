@@ -1,0 +1,161 @@
+Ayush Products
+
+Product name: Ayush Whitening Toothpaste
+110 Grams Toothpaste
+Cost: LKR 285.00
+Brand: Ayush
+Item Volume: 110 Grams
+Item Form: Paste
+Net Quantity: 110.0 grams
+Koko Pay: 3 x LKR 76.00
+About this item:Formulated with the natural goodness of Rock Salt and Arimedas Tailam, this Ayurvedic toothpaste helps prevent tooth decay, strengthens enamel, and supports overall oral health.
+Ingredients: Rock Salt, Arimedas Tailam
+How to Use: Apply onto a soft-bristled toothbrush, brush all sides, rinse thoroughly.
+
+Product name: Ayush Anti Cavity Toothpaste
+110 Grams Toothpaste
+Cost: LKR 285.00
+Brand: Ayush
+Item Volume: 110 Grams
+Item Form: Paste
+Net Quantity: 110.0 grams
+Koko Pay: 3 x LKR 95.00
+About this item: Made with clove oil and Dasanakanthi Choornam, this toothpaste relieves toothache, freshens breath, and maintains gum health through Ayurvedic wisdom.
+Ingredients: Clove Oil, Dasanakanthi Choornam
+How to Use: Apply on a soft-bristled brush, brush thoroughly, rinse with water.
+
+Product name: Ayush Anti Dandruff Neem Shampoo
+175 Millilitres Shampoo
+Cost: LKR 880.00
+Brand: Ayush
+Item Volume: 175 ml
+Item Form: Shampoo
+Net Quantity: 175.0 ml
+Koko Pay: 3 x LKR 293.33
+About this item: Infused with Neem and Rosemary Tailam, this Ayurvedic shampoo gently cleanses the scalp, controls dandruff, and promotes healthy hair growth.
+Ingredients: Neem, Rosemary Tailam
+How to Use: Massage onto wet scalp, rinse well, repeat if needed.
+
+Product name: Ayush Anti Marks & Oil Control Face Cream
+50 Grams Cream
+Cost: LKR 780.00
+Brand: Ayush
+Item Volume: 50 Grams
+Item Form: Cream
+Net Quantity: 50.0 grams
+Koko Pay: 3 x LKR 260.00
+About this item: Formulated with Turmeric and Kumkumadi Tailam, this face cream helps reduce marks, control oil, and enhance natural glow.
+Ingredients: Turmeric, Kumkumadi Tailam
+How to Use: Dot on face and neck, massage gently in upward strokes.
+
+Product name: Ayush Aloe Face Wash
+50 Grams Face Wash
+Cost: LKR 330.00
+Brand: Ayush
+Item Volume: 50 Grams
+Item Form: Gel
+Net Quantity: 50.0 grams
+Koko Pay: 3 x LKR 110.00
+About this item:With Aloe Vera and Panchawalkadi Tailam, this face wash clears oil and soothes the skin while relieving common skin issues.
+How to Use: Moisten face, apply a few drops, gently lather, rinse off.
+
+Product name: Ayush Glowing Radiance Soap
+70 Grams Soap
+Cost: LKR 125.00
+Brand: Ayush
+Item Form: Soap
+Net Quantity: 70.0 grams
+Koko Pay: 3 x LKR 41.66
+About this item: Soap enriched with Ayurvedic ingredients to bring out skin’s natural radiance.
+
+Product name: Ayush Purifying Wellness Soap
+70 Grams Soap
+Cost: LKR 125.00
+Brand: Ayush
+Item Form: Soap
+Net Quantity: 70.0 grams
+Koko Pay: 3 x LKR 41.66
+About this item:A purifying bath bar with Ayurvedic herbs to cleanse and detox the skin.
+
+Product name: Ayush Exfoliating Wellness Soap
+70 Grams Soap
+Cost: LKR 175.00
+Brand: Ayush
+Item Form: Soap
+Net Quantity: 70.0 grams
+Koko Pay: 3 x LKR 58.33
+About this item:Ayurvedic exfoliating soap to remove dead skin cells and restore smoothness.
+
+Product name: Ayush Natural Glow & Protect Face Wash
+50 Millilitres Face Wash
+Cost: LKR 280.00
+Brand: Ayush
+Item Volume: 50 ml
+Item Form: Face Wash
+Net Quantity: 50.0 ml
+Koko Pay: 3 x LKR 93.33
+About this item:With Saffron, Vitamin C, and Kumkumadi Tailam, this formula reduces dark spots and enhances glow.
+How to Use: Moisten face, lather gently, rinse.
+
+Product name: Ayush Natural Glow & Protect Face Wash
+100 Millilitres Face Wash
+Cost: LKR 550.00
+Brand: Ayush
+Item Volume: 100 ml
+Item Form: Face Wash
+Net Quantity: 100.0 ml
+Koko Pay: 3 x LKR 183.33
+(Same benefits as above)
+
+Product name: Ayush Pimple Control Face Wash
+100 Millilitres Face Wash
+Cost: LKR 550.00
+Brand: Ayush
+Item Volume: 100 ml
+Item Form: Face Wash
+Net Quantity: 100.0 ml
+Koko Pay: 3 x LKR 183.33
+About this item:Ayurvedic pimple-fighting solution to purify pores and control breakouts.
+
+Product name: Ayush Oil Clear Face Wash
+100 Millilitres Face Wash
+Cost: LKR 550.00
+Brand: Ayush
+Item Volume: 100 ml
+Item Form: Face Wash
+Net Quantity: 100.0 ml
+Koko Pay: 3 x LKR 183.33
+About this item:Controls oil production and refreshes skin using ancient ayurvedic oil-clearing herbs.
+
+Product name: Ayush Natural Glow & Protect Face Cream
+50 Grams Cream
+Cost: LKR 780.00
+Brand: Ayush
+Item Volume: 50 Grams
+Item Form: Cream
+Net Quantity: 50.0 grams
+Koko Pay: 3 x LKR 260.00
+About this item:Brightening cream infused with Kumkumadi Tailam to reduce spots and improve skin clarity.
+How to Use: Dot on face and neck, gently massage.
+
+Product name: Ayush Natural Glow & Protect Face Cream
+25 Grams Cream
+Cost: LKR 485.00
+Brand: Ayush
+Item Volume: 25 Grams
+Item Form: Cream
+Net Quantity: 25.0 grams
+Koko Pay: 3 x LKR 161.66
+(Same product, smaller size)
+
+Product name: Ayush Turmeric Face Wash
+50 Grams Face Wash
+Cost: LKR 580.00
+Brand: Ayush
+Item Volume: 50 Grams
+Item Form: Gel Face Wash
+Net Quantity: 50.0 grams
+Koko Pay: 3 x LKR 193.33
+About this item:Formulated with turmeric and ayurvedic herbs to fight pimples and skin infections naturally.
+How to Use: Moisten skin, apply, lather in circular motion, rinse well.
+

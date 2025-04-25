@@ -1,0 +1,74 @@
+Clear
+
+ProductName: ClearMenDeepCleanseShampoo
+Volume: 180ml
+Cost: LKR 900.00
+Brand: Clear
+ItemVolume: 180ml
+ItemForm: Shampoo
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 300.00
+AboutThisItem: Infused with Activated Charcoal and Citrus, this shampoo deep cleanses the scalp to remove dirt, grease, and impurities while nourishing with Nutrium 10 and Nutrium Oil Complex.
+KeyFeatures: DeepCleanse, CharcoalInfused, ScalpNourishment, OilControl
+HowToUse: Apply to wet hair and scalp, massage gently, and rinse thoroughly.
+
+ProductName: ClearIceCoolMentholShampoo
+Volume: 180ml
+Cost: LKR 870.00
+Brand: Clear
+ItemVolume: 180ml
+ItemForm: Shampoo
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 290.00
+AboutThisItem: Triple Anti-Dandruff formula combined with Lime and Cooling Mint offers scalp refreshment while removing and resisting dandruff.
+KeyFeatures: MentholFreshness, DandruffControl, CoolingSensation
+HowToUse: Apply to wet hair, lather and rinse well. Use regularly for best results.
+
+ProductName: ClearCompleteSoftCareShampoo
+Volume: 180ml
+Cost: LKR 870.00
+Brand: Clear
+ItemVolume: 180ml
+ItemForm: Shampoo
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 290.00
+AboutThisItem: Gentle cleansing shampoo with Triple Anti-Dandruff Technology, Vitamin B3, Sunflower Seed Oil, and Amino Acids to nourish hair and keep scalp flake-free.
+KeyFeatures: SoftCare, NourishingIngredients, FlakeFreeScalp
+HowToUse: Use on wet scalp and hair, massage and rinse completely.
+
+ProductName: ClearMenCoolSportMentholShampoo
+Volume: 180ml
+Cost: LKR 900.00
+Brand: Clear
+ItemVolume: 180ml
+ItemForm: Shampoo
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 300.00
+AboutThisItem: Designed for active men, this shampoo features Menthol Infusion, Taurine, and Triple Anti-Dandruff Tech to revitalize and cleanse the scalp.
+KeyFeatures: SportFreshness, MentholBoost, AntiDandruffDefense
+HowToUse: Apply to wet scalp, massage gently, rinse completely.
+
+ProductName: ClearIceCoolMentholShampooPouch
+Volume: 100ml
+Cost: LKR 380.00
+Brand: Clear
+ItemVolume: 100ml
+ItemForm: Shampoo
+NetQuantity: 100.0ml
+KokoPay: 3 x LKR 126.66
+AboutThisItem: Same powerful cooling and dandruff-resisting formula in a convenient travel-friendly pouch size.
+KeyFeatures: MentholChill, DandruffFighter, CompactSize
+HowToUse: Squeeze onto hand, apply to wet hair, massage and rinse.
+
+ProductName: ClearMenCoolSportMentholShampooPouch
+Volume: 100ml
+Cost: LKR 410.00
+Brand: Clear
+ItemVolume: 100ml
+ItemForm: Shampoo
+NetQuantity: 100.0ml
+KokoPay: 3 x LKR 136.66
+AboutThisItem: Designed for men on the go, this pouch version offers the same taurine and menthol-powered dandruff protection.
+KeyFeatures: SportyCool, SweatDefense, DandruffCare
+HowToUse: Apply generously on wet hair, lather well, rinse off.
+

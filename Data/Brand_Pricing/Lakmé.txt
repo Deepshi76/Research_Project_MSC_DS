@@ -1,0 +1,68 @@
+Lakmé
+ProductName: LakmeAbsolutePerfectRadianceNightCream
+Volume: 50g
+Cost: LKR 3,480.00
+Brand: Lakmé
+ItemVolume: 50g
+ItemForm: Cream
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 1,160.00
+AboutThisItem: Night cream that nourishes skin overnight, enhancing radiance and reducing dark spots.
+KeyFeatures: OvernightNourishment, EnhancesRadiance, ReducesDarkSpots
+HowToUse: Apply nightly on cleansed face and neck.​
+Watsans
+
+ProductName: LakmeAbsoluteHydraProGelCream
+Volume: 50g
+Cost: LKR 4,550.00
+Brand: Lakmé
+ItemVolume: 50g
+ItemForm: GelCream
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 1,516.66
+AboutThisItem: Hydrating gel cream that locks in moisture for 72 hours, leaving skin plump and refreshed.
+KeyFeatures: 72HrHydration, MoistureLock, PlumpSkin
+HowToUse: Apply evenly to face and neck after cleansing.​
+Watsans
+
+ProductName: LakmeAbsoluteSkinGlossOvernightFaceMask
+Volume: 50g
+Cost: LKR 2,150.00
+Brand: Lakmé
+ItemVolume: 50g
+ItemForm: FaceMask
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 716.66
+AboutThisItem: Overnight mask that hydrates and revitalizes skin, giving it a glossy finish.
+KeyFeatures: OvernightHydration, RevitalizesSkin, GlossyFinish
+HowToUse: Apply a thin layer before bedtime; rinse off in the morning.​
+Watsans
+
+ProductName: Lakme9to5PrimerMattePowderFoundationCompactNaturalAlmond
+Volume: 9g
+Cost: LKR 3,500.00
+Brand: Lakmé
+ItemVolume: 9g
+ItemForm: Compact
+NetQuantity: 9.0g
+KokoPay: 3 x LKR 1,166.66
+AboutThisItem: Two-in-one primer and matte powder foundation that provides a smooth, even-toned finish.
+KeyFeatures: PrimerPlusFoundation, MatteFinish, EvenTone
+HowToUse: Apply evenly over face using the provided applicator.​
+
+
+ProductName: LakmeLumiCreamMoisturizerHighlighter
+Volume: 30g
+Cost: LKR 1,950.00
+Brand: Lakmé
+ItemVolume: 30g
+ItemForm: Cream
+NetQuantity: 30.0g
+KokoPay: 3 x LKR 650
+
+
+
+
+
+
+

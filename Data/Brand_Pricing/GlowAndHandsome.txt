@@ -1,0 +1,33 @@
+Brand: GlowAndHandsome
+ItemVolume: Cream50g+Facewash50g+Pouch
+ItemForm: ComboPack
+NetQuantity: 2Products+Pouch
+KokoPay: 3 x LKR 546.66
+AboutThisItem: Special combo pack featuring Instant Brightness Cream (50g), Face Wash (50g), and a FREE branded pouch.
+KeyFeatures: InstantGlowCombo, FreeGift, Men’sSkincareEssentials
+HowToUse: Face wash before applying cream for best results.
+
+ProductName: GlowAndHandsomeInstantBrightnessFaceCream
+Volume: 50g
+Cost: LKR 1055.00
+Brand: GlowAndHandsome
+ItemVolume: 50g
+ItemForm: Cream
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 351.66
+AboutThisItem: Designed for men, this cream offers 5 benefits: sun protection, brightness, clarity, oil reduction, and long-lasting freshness with multivitamins and UV filters.
+KeyFeatures: RapidActionGlow, UVProtection, SweatAndOilControl, SpotReduction
+HowToUse: Apply twice daily after cleansing with Glow & Handsome Face Wash.
+
+ProductName: GlowAndHandsomeInstantBrightnessFaceWash
+Volume: 50g
+Cost: LKR 585.00
+Brand: GlowAndHandsome
+ItemVolume: 50g
+ItemForm: Facewash
+NetQuantity: 50.0g
+KokoPay: 3 x LKR 195.00
+AboutThisItem: Designed for men exposed to pollution and sun, this face wash deeply cleanses and instantly brightens with multivitamins and menthol.
+KeyFeatures: IcyCoolEffect, BrightnessIn1Wash, MultivitaminBoost
+HowToUse: Use morning and evening. Rinse thoroughly and follow with face cream.
+

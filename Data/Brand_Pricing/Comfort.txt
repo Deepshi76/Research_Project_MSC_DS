@@ -1,0 +1,24 @@
+Brand: Comfort
+ItemVolume: 860ml
+ItemForm: Liquid
+NetQuantity: 860.0ml
+KokoPay: 3 x LKR 366.66
+AboutThisItem: Fabric conditioner that provides long-lasting freshness and softness to clothes, leaving them with a pleasant morning fresh fragrance.
+KeyFeatures: LongLastingFreshness, SoftnessEnhancer, MorningFreshFragrance
+HowToUse: Add 1 capful to the final rinse water or washing machine dispenser; do not pour directly onto fabrics.
+
+ProductName: ComfortLilyFreshFabricConditioner
+Volume: 860ml
+Cost: LKR 1,100.00
+Brand: Comfort
+ItemVolume: 860ml
+ItemForm: Liquid
+NetQuantity: 860.0ml
+KokoPay: 3 x LKR 366.66
+AboutThisItem: Fabric conditioner infused with lily fragrance, ensuring clothes remain soft and fragrant after every wash.
+KeyFeatures: LilyFragrance, SoftnessEnhancer, LongLastingFreshness
+HowToUse: Use 1 capful in the final rinse cycle or washing machine dispenser; avoid direct contact with fabrics.
+
+ProductName: RinRefreshDetergentPowder
+Volume: 1kg
+Cost: LKR 332.00

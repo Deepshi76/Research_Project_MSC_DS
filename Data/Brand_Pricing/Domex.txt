@@ -1,0 +1,21 @@
+Brand: Domex
+ItemVolume: 500ml
+ItemForm: Liquid
+NetQuantity: 500.0ml
+KokoPay: 3 x LKR 150.00
+AboutThisItem: Toilet cleaner with lime fresh fragrance that kills germs and removes stains, ensuring a hygienic toilet.
+KeyFeatures: GermKill, StainRemoval, LimeFreshFragrance
+HowToUse: Apply under the rim and on toilet bowl; leave for 20 minutes, scrub, and flush.
+
+ProductName: DomexFreshGuardOceanFreshToiletCleaner
+Volume: 500ml
+Cost: LKR 450.00
+Brand: Domex
+ItemVolume: 500ml
+ItemForm: Liquid
+NetQuantity: 500.0ml
+KokoPay: 3 x LKR 150.00
+AboutThisItem: Toilet cleaner with ocean fresh fragrance that effectively kills germs and removes tough stains.
+KeyFeatures: GermKill, ToughStainRemoval, OceanFreshFragrance
+HowToUse: Apply around the toilet bowl, leave for 20 minutes, scrub, and flush.
+

@@ -1,0 +1,45 @@
+Brand: Sunsilk
+ItemVolume: 1000ml
+ItemForm: Shampoo
+NetQuantity: 1L
+KokoPay: 3 x LKR 633.33
+AboutThisItem: Nourishing shampoo enriched with a unique blend of five natural oils including argan, almond, camellia, babassu, and coconut. Deeply moisturizes hair without making it greasy.
+KeyFeatures: FiveNaturalOils, SilkySmoothness, DeepNourishment, ForDryHair
+HowToUse: Pour into hand, apply to wet hair, massage gently, and rinse thoroughly.
+
+ProductName: SunsilkSoftAndSmoothShampoo
+Volume: 180ml
+Cost: LKR 625.00
+Brand: Sunsilk
+ItemVolume: 180ml
+ItemForm: Shampoo
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 208.33
+AboutThisItem: With Activ-Mix of Egg Protein, Nourishing Oils, and Vitamin C, this shampoo leaves hair up to 2x softer and smoother while reducing dryness.
+KeyFeatures: ActivMixCare, EggProtein, VitaminC, DailyHydration
+HowToUse: Apply to wet hair, massage into scalp, lather well, and rinse.
+
+ProductName: SunsilkStunningBlackShineShampoo
+Volume: 180ml
+Cost: LKR 625.00
+Brand: Sunsilk
+ItemVolume: 180ml
+ItemForm: Shampoo
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 208.33
+AboutThisItem: Enriched with Amla Oil, Pearl Protein, and Vitamin E, this shampoo adds long-lasting shine and nourishes black hair to look glossy all day.
+KeyFeatures: BlackShine, AmlaOil, VitaminE, HairRevival
+HowToUse: Apply on wet hair, massage into scalp and rinse. For best results use with Black Shine Conditioner.
+
+ProductName: SunsilkSoftAndSmoothConditioner
+Volume: 180ml
+Cost: LKR 750.00
+Brand: Sunsilk
+ItemVolume: 180ml
+ItemForm: Conditioner
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 250.00
+AboutThisItem: Activ-Mix conditioner powered by Egg Protein, Vitamin C, and Nourishing Oils to deeply hydrate and detangle dry, rough hair.
+KeyFeatures: DetangleEase, SmoothAndSoftFinish, ProteinAndOilBlend
+HowToUse: Apply after shampoo from mid-length to tips. Leave for 2–3 minutes and rinse.
+

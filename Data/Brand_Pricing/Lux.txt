@@ -1,0 +1,63 @@
+Lux
+
+ProductName: LuxSoftGlowSoap
+Volume: 100g
+Cost: LKR 165.00
+Brand: Lux
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 55.00
+AboutThisItem: Enriched with SilkEssence and RoseWater, this soap provides soft, radiant skin with a luxurious floral fragrance.
+KeyFeatures: SilkEssence, RoseWater, SoftGlowSkin, FloralFragrance
+HowToUse: Apply on wet skin, lather gently, and rinse thoroughly.
+
+ProductName: LuxBrightGlowSoap
+Volume: 100g
+Cost: LKR 170.00
+Brand: Lux
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 56.66
+AboutThisItem: Infused with VitaminC and E, this soap brightens the skin, leaving it glowing and refreshed.
+KeyFeatures: VitaminC, VitaminE, BrighteningEffect, RefreshingScent
+HowToUse: Use on wet skin, lather well, and rinse off.
+
+ProductName: LuxFreshSplashSoap
+Volume: 100g
+Cost: LKR 165.00
+Brand: Lux
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 55.00
+AboutThisItem: Contains CoolingMint and SeaMinerals, offering an invigorating and refreshing bathing experience.
+KeyFeatures: CoolingMint, SeaMinerals, InvigoratingFreshness, RefreshingScent
+HowToUse: Lather on wet skin, massage gently, and rinse thoroughly.
+
+ProductName: LuxSandalAndCreamSoap
+Volume: 100g
+Cost: LKR 156.00
+Brand: Lux
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 52.00
+AboutThisItem: Combines Sandalwood and RichCream to nourish the skin, leaving it soft and fragrant.
+KeyFeatures: Sandalwood, RichCream, NourishedSkin, SoothingFragrance
+HowToUse: Apply on wet skin, lather, and rinse off completely.
+
+ProductName: LuxBotanicalHoneyAndLotusSoap
+Volume: 100g
+Cost: LKR 70.00
+Brand: Lux
+ItemVolume: 100g
+ItemForm: SoapBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 23.33
+AboutThisItem: Infused with NaturalHoney and LotusExtracts, this soap gently cleanses and moisturizes the skin.
+KeyFeatures: NaturalHoney, LotusExtracts, GentleCleansing, MoisturizedSkin
+HowToUse: Use daily on wet skin, lather softly, and rinse thoroughly.
+
+

@@ -1,0 +1,39 @@
+AXE
+
+ProductName: AxeSignatureDarkTemptationTicketBodySpray
+Volume: 17ml
+Cost: LKR 525.00
+Brand: AXE
+ItemVolume: 17ml
+ItemForm: BodySpray
+NetQuantity: 17.0ml
+KokoPay: 3 x LKR 175.00
+AboutThisItem: Axe’s pocket-sized body spray delivers up to 250 no-gas sprays with a sensual woody fragrance. Ideal for college, dates, or parties, it offers long-lasting freshness for up to 12 hours in a sleek, travel-ready format.
+KeyFeatures: 250Sprays, WoodyFragrance, CompactDesign, LongLasting
+HowToUse: Hold upright and spray on neck and chest after showering.
+
+ProductName: AxeSignatureGoldDarkVanilla&OudWoodBodySpray
+Volume: 80ml
+Cost: LKR 2100.00
+Brand: AXE
+ItemVolume: 80ml
+ItemForm: BodySpray
+NetQuantity: 80.0ml
+KokoPay: 3 x LKR 700.00
+AboutThisItem: A bold and premium fragrance infused with luxurious notes of dark vanilla and oud wood. Created for the confident man who wants to stand out.
+KeyFeatures: UltraPremiumPerfume, LongLasting, UniqueScentBlend, SleekPackaging
+HowToUse: Twist the cap and pull. Hold upright and spray on neck, chest, and wrists.
+
+ProductName: AxeSignatureIntenseTicketBodySpray
+Volume: 17ml
+Cost: LKR 525.00
+Brand: AXE
+ItemVolume: 17ml
+ItemForm: BodySpray
+NetQuantity: 17.0ml
+KokoPay: 3 x LKR 175.00
+AboutThisItem: Pocket-sized intense fragrance from AXE with a long-lasting woody scent designed to give you confidence all day. Just 3–4 sprays offer freshness for up to 12 hours.
+KeyFeatures: 250Sprays, IntenseWoodyFragrance, PocketFriendly, IdealForAllOccasions
+HowToUse: Hold upright and spray on neck and chest for best results.
+
+

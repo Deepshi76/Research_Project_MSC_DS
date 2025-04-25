@@ -1,0 +1,220 @@
+Dove
+
+ProductName: DoveOxygenMoistureShampoo
+Volume: 180ml
+Cost: LKR 750.00
+Brand: Dove
+ItemVolume: 180ml
+ItemForm: Shampoo
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 250.00
+AboutThisItem: Lightweight shampoo with Oxyfusion technology that adds moisture and volume to fine, flat hair without weighing it down.
+KeyFeatures: OxygenMoisture, VolumizingCare, LightweightHydration
+HowToUse: Apply to wet hair, lather, massage, and rinse thoroughly.
+
+ProductName: DoveGrowthRitualShampoo
+Volume: 180ml
+Cost: LKR 900.00
+Brand: Dove
+ItemVolume: 180ml
+ItemForm: Shampoo
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 300.00
+AboutThisItem: Inspired by North American hair rituals, enriched with Echinacea and White Tea to strengthen hair and reduce breakage.
+KeyFeatures: HairGrowthSupport, BreakagePrevention, HerbalInfusion
+HowToUse: Massage into scalp and rinse thoroughly. Use regularly.
+
+ProductName: DoveIntenseRepairShampoo
+Volume: 180ml
+Cost: LKR 750.00
+Brand: Dove
+ItemVolume: 180ml
+ItemForm: Shampoo
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 250.00
+AboutThisItem: Repairs visible signs of damage using Fibre Actives. Strengthens hair from within and adds resilience against daily breakage.
+KeyFeatures: DamageRepair, FibreActives, StrongerHair
+HowToUse: Massage into wet hair, lather well, and rinse.
+
+ProductName: DoveOxygenMoistureConditioner
+Volume: 180ml
+Cost: LKR 830.00
+Brand: Dove
+ItemVolume: 180ml
+ItemForm: Conditioner
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 276.66
+AboutThisItem: Volumizing conditioner for fine, limp hair. Provides moisture without heaviness, with Oxyfusion technology.
+KeyFeatures: FullnessBoost, OxyHydration, LightweightCare
+HowToUse: Apply after shampoo, focusing on lengths. Rinse after 2–3 minutes.
+
+ProductName: DoveIntenseRepairConditioner
+Volume: 180ml
+Cost: LKR 830.00
+Brand: Dove
+ItemVolume: 180ml
+ItemForm: Conditioner
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 276.66
+AboutThisItem: Conditioner with Keratin Actives that detangles, strengthens, and repairs dry or damaged hair.
+KeyFeatures: KeratinCare, DamageShield, SoftManageableHair
+HowToUse: Apply to damp hair post shampoo, leave for 2 minutes, rinse.
+
+ProductName: DoveGrowthRitualConditioner
+Volume: 180ml
+Cost: LKR 900.00
+Brand: Dove
+ItemVolume: 180ml
+ItemForm: Conditioner
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 300.00
+AboutThisItem: Infused with coneflower oil and white tea, this conditioner nourishes hair to promote growth and prevent breakage.
+KeyFeatures: GrowthSupport, HerbalRepair, BreakageReduction
+HowToUse: After shampooing, apply generously and rinse off after 2–3 minutes.
+
+ProductName: DoveBeautifulCurlsSerumGel
+Volume: 100ml
+Cost: LKR 1500.00
+Brand: Dove
+ItemVolume: 100ml
+ItemForm: HairSerumGel
+NetQuantity: 100.0ml
+KokoPay: 3 x LKR 500.00
+AboutThisItem: Defines and hydrates curly hair with a light serum-gel formulation for frizz-free, bouncy curls.
+KeyFeatures: CurlDefinition, LightHold, FrizzControl
+HowToUse: Apply to damp curls and scrunch upward.
+
+ProductName: DoveHairFallRescueConditioner
+Volume: 180ml
+Cost: LKR 830.00
+Brand: Dove
+ItemVolume: 180ml
+ItemForm: Conditioner
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 207.50
+AboutThisItem: Reduces hair fall by up to 98% using Nutrilock Actives. Detangles and strengthens hair to resist breakage.
+KeyFeatures: HairFallDefense, SmoothCombing, GentleNourishment
+HowToUse: Use after shampooing, apply from ear to tips, rinse thoroughly.
+
+ProductName: DoveDandruffCareShampoo
+Volume: 180ml
+Cost: LKR 1090.00
+Brand: Dove
+ItemVolume: 180ml
+ItemForm: Shampoo
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 363.33
+AboutThisItem: Shampoo with ZPTO formula for dandruff removal and daily nourishment. Keeps scalp clean and hair smooth.
+KeyFeatures: AntiDandruffCare, ScalpProtection, SmoothHair
+HowToUse: Apply to wet hair, lather, massage scalp, and rinse.
+
+ProductName: DoveBeautifulCurlsConditioner
+Volume: 380ml
+Cost: LKR 2850.00
+Brand: Dove
+ItemVolume: 380ml
+ItemForm: Conditioner
+NetQuantity: 380.0ml
+KokoPay: 3 x LKR 950.00
+AboutThisItem: Specially designed for curly hair with moisture-rich ingredients for nourishment, bounce, and shine.
+KeyFeatures: CurlyHairCare, MoistureBalance, DetangleEase
+HowToUse: Apply to wet curls post-shampoo and rinse well.
+
+ProductName: DoveBeautifulCurlsShampoo
+Volume: 380ml
+Cost: LKR 2850.00
+Brand: Dove
+ItemVolume: 380ml
+ItemForm: Shampoo
+NetQuantity: 380.0ml
+KokoPay: 3 x LKR 950.00
+AboutThisItem: Moisture-rich formula for curly hair that gently cleanses and defines curls.
+KeyFeatures: CurlHydration, NourishingCleanse, BounceAndShine
+HowToUse: Massage on wet hair, lather well, rinse thoroughly.
+
+ProductName: Dove10In1DeepRepairHairMask
+Volume: 300ml
+Cost: LKR 2750.00
+Brand: Dove
+ItemVolume: 300ml
+ItemForm: HairMask
+NetQuantity: 300.0ml
+KokoPay: 3 x LKR 916.66
+AboutThisItem: With 8% Bio-Protein Fusion, this mask reverses years of damage from coloring and heat. Restores smoothness and strength from the first wash.
+KeyFeatures: DeepRepair, ProteinReplenishment, NoSulfatesOrParabens
+HowToUse: Apply to clean damp hair, leave for 5 minutes, rinse thoroughly.
+
+ProductName: DoveIntenseRepairShampooPouch
+Volume: 100ml
+Cost: LKR 400.00
+Brand: Dove
+ItemVolume: 100ml
+ItemForm: Shampoo
+NetQuantity: 100.0ml
+KokoPay: 3 x LKR 133.33
+AboutThisItem: Small-size pouch of Dove’s repair shampoo for instant nourishment and strength against breakage.
+KeyFeatures: DamageControl, EverydayUse, TravelFriendly
+HowToUse: Lather into wet hair and rinse off.
+
+ProductName: DoveHairFallRescueShampoo
+Volume: 340ml
+Cost: LKR 1750.00
+Brand: Dove
+ItemVolume: 340ml
+ItemForm: Shampoo
+NetQuantity: 340.0ml
+KokoPay: 3 x LKR 583.33
+AboutThisItem: Fortifies weak hair with Nutrilock Actives to reduce breakage and hair fall by up to 98%.
+KeyFeatures: StrongRoots, HairFallReduction, FullerHair
+HowToUse: Apply to wet hair and scalp, massage gently, rinse well.
+
+ProductName: DoveDailyShineShampoo
+Volume: 180ml
+Cost: LKR 920.00
+Brand: Dove
+ItemVolume: 180ml
+ItemForm: Shampoo
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 306.66
+AboutThisItem: With Nutritive Serum, this shampoo protects from daily damage and leaves hair shiny and nourished.
+KeyFeatures: EverydayShine, DamagePrevention, SoftSmoothHair
+HowToUse: Massage on scalp, lather, and rinse. Use daily for best results.
+
+ProductName: DoveDandruffCareConditioner
+Volume: 180ml
+Cost: LKR 1090.00
+Brand: Dove
+ItemVolume: 180ml
+ItemForm: Conditioner
+NetQuantity: 180.0ml
+KokoPay: 3 x LKR 363.33
+AboutThisItem: Strengthens and smooths hair while removing dandruff flakes. Nutritive Serum helps restore scalp balance.
+KeyFeatures: AntiDandruffConditioning, FlakeFreeShine, DetanglesSmoothly
+HowToUse: Apply post shampoo. Leave for 2–3 mins and rinse.
+
+ProductName: DovePinkBeautyBathingBar
+Volume: 100g
+Cost: LKR 360.00
+Brand: Dove
+ItemVolume: 100g
+ItemForm: BathBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 84.00
+AboutThisItem: Moisturizing bar with a soft floral fragrance for radiant, nourished skin.
+KeyFeatures: BeautyBar, MoistureRich, GentleOnSkin
+HowToUse: Lather with water and apply directly on wet skin.
+
+ProductName: DoveBeautyBathingBar
+Volume: 100g
+Cost: LKR 360.00
+Brand: Dove
+ItemVolume: 100g
+ItemForm: BathBar
+NetQuantity: 100.0g
+KokoPay: 3 x LKR 84.00
+AboutThisItem: Classic Dove soap with ¼ moisturizing cream for soft, smooth skin. Dermatologist recommended.
+KeyFeatures: MoisturizingCleanser, CreamEnriched, DermatologistTested
+HowToUse: Use like regular soap for a rich, creamy lather.
+
+
+

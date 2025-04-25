@@ -1,0 +1,133 @@
+Horlicks
+
+ProductName: HorlicksOriginalClassicMalt
+Volume: 400g
+Cost: LKR 1,250.00
+Brand: Horlicks
+ItemVolume: 400g
+ItemForm: Powder
+NetQuantity: 400.0g
+KokoPay: 3 x LKR 416.66
+AboutThisItem: Classic malted health drink enriched with 23 vital nutrients. Clinically proven to improve 5 signs of growth: more bone area, muscle mass, better concentration, healthier blood, and healthy weight gain.
+KeyFeatures: ClassicMalt, 23Nutrients, GrowthSupport, ImmunityBoost
+HowToUse: Mix 2–3 heaped teaspoons in a cup of hot or cold milk. Stir well and consume.
+
+ProductName: HorlicksChocolateDelight
+Volume: 500g
+Cost: LKR 1,073.00
+Brand: Horlicks
+ItemVolume: 500g
+ItemForm: Powder
+NetQuantity: 500.0g
+KokoPay: 3 x LKR 357.66
+AboutThisItem: Chocolate-flavored variant of Horlicks, combining the goodness of malt with a rich chocolate taste. Supports immunity and overall development.
+KeyFeatures: ChocolateFlavor, GrowthSupport, NutrientRich
+HowToUse: Add 2–3 teaspoons to a glass of hot or cold milk. Stir until fully dissolved.
+
+ProductName: HorlicksDiabetesPlusVanilla
+Volume: 400g
+Cost: LKR 2,500.00
+Brand: Horlicks
+ItemVolume: 400g
+ItemForm: Powder
+NetQuantity: 400.0g
+KokoPay: 3 x LKR 833.33
+AboutThisItem: Nutritional beverage designed for adults with diabetes. Contains high fiber (Fibersol-2 and Nutriose) and protein to support dietary management.
+KeyFeatures: DiabetesCare, HighFiber, HighProtein, VanillaFlavor
+HowToUse: Mix 2 tablespoons in 200ml of lukewarm water or milk. Stir well and consume.
+
+ProductName: HorlicksLiteRegularMalt
+Volume: 450g
+Cost: LKR 1,000.00
+Brand: Horlicks
+ItemVolume: 450g
+ItemForm: Powder
+NetQuantity: 450.0g
+KokoPay: 3 x LKR 333.33
+AboutThisItem: Low-fat health drink with no added sugar, suitable for adults. Provides essential nutrients without extra calories.
+KeyFeatures: LowFat, NoAddedSugar, AdultNutrition, RegularMalt
+HowToUse: Add 2–3 teaspoons to a cup of hot or cold milk. Stir well and enjoy.
+
+ProductName: HorlicksLiteBadam
+Volume: 450g
+Cost: LKR 1,050.00
+Brand: Horlicks
+ItemVolume: 450g
+ItemForm: Powder
+NetQuantity: 450.0g
+KokoPay: 3 x LKR 350.00
+AboutThisItem: Almond-flavored low-fat health drink with no added sugar. Enriched with essential nutrients for adult health.
+KeyFeatures: AlmondFlavor, LowFat, NoAddedSugar, AdultNutrition
+HowToUse: Mix 2–3 teaspoons in a glass of hot or cold milk. Stir until fully dissolved.
+
+ProductName: HorlicksProteinPlusChocolate
+Volume: 400g
+Cost: LKR 1,500.00
+Brand: Horlicks
+ItemVolume: 400g
+ItemForm: Powder
+NetQuantity: 400.0g
+KokoPay: 3 x LKR 500.00
+AboutThisItem: High-protein nutritional drink for adults, containing a blend of whey, soy, and casein proteins. Supports muscle mass and strength.
+KeyFeatures: HighProtein, MuscleSupport, ChocolateFlavor, AdultNutrition
+HowToUse: Add 2 tablespoons to 200ml of hot or cold milk. Stir well and consume.
+
+ProductName: HorlicksProteinPlusVanilla
+Volume: 400g
+Cost: LKR 1,500.00
+Brand: Horlicks
+ItemVolume: 400g
+ItemForm: Powder
+NetQuantity: 400.0g
+KokoPay: 3 x LKR 500.00
+AboutThisItem: Vanilla-flavored high-protein drink for adults, combining whey, soy, and casein proteins to support muscle health.
+KeyFeatures: HighProtein, MuscleSupport, VanillaFlavor, AdultNutrition
+HowToUse: Mix 2 tablespoons in 200ml of hot or cold milk. Stir until fully dissolved.
+
+ProductName: JuniorHorlicksVanilla
+Volume: 500g
+Cost: LKR 1,200.00
+Brand: Horlicks
+ItemVolume: 500g
+ItemForm: Powder
+NetQuantity: 500.0g
+KokoPay: 3 x LKR 400.00
+AboutThisItem: Nutritional drink for children aged 2–6 years. Contains DHA and essential nutrients to support brain development and growth.
+KeyFeatures: DHAEnriched, BrainDevelopment, VanillaFlavor, KidsNutrition
+HowToUse: Add 2–3 teaspoons to a cup of hot or cold milk. Stir well and serve.
+
+ProductName: MothersHorlicksKesarFlavor
+Volume: 500g
+Cost: LKR 1,500.00
+Brand: Horlicks
+ItemVolume: 500g
+ItemForm: Powder
+NetQuantity: 500.0g
+KokoPay: 3 x LKR 500.00
+AboutThisItem: Specialized nutrition for pregnant and breastfeeding women. Contains DHA, choline, and other nutrients essential for maternal health.
+KeyFeatures: MaternalNutrition, DHAEnriched, KesarFlavor, PregnancySupport
+HowToUse: Mix 2 tablespoons in 200ml of hot or cold milk. Stir well and consume.
+
+ProductName: WomenHorlicksChocolateFlavor
+Volume: 400g
+Cost: LKR 1,300.00
+Brand: Horlicks
+ItemVolume: 400g
+ItemForm: Powder
+NetQuantity: 400.0g
+KokoPay: 3 x LKR 433.33
+AboutThisItem: Health drink formulated for women, providing 100% RDA of calcium and vitamin D to support bone health.
+KeyFeatures: BoneHealth, CalciumRich, ChocolateFlavor, WomenNutrition
+HowToUse: Add 2–3 teaspoons to a glass of hot or cold milk. Stir until fully dissolved.
+
+ProductName: WomenHorlicksCaramelFlavor
+Volume: 400g
+Cost: LKR 1,300.00
+Brand: Horlicks
+ItemVolume: 400g
+ItemForm: Powder
+NetQuantity: 400.0g
+KokoPay: 3 x LKR 433.33
+AboutThisItem: Caramel-flavored health drink for women, enriched with essential nutrients to support overall health and well-being.
+
+
