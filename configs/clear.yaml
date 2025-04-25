@@ -1,0 +1,20 @@
+brand_name: "Clear"
+synonyms:
+  - "clear"
+  - "clear anti-dandruff"
+  - "clear shampoo"
+brand_tone:
+  - "active"
+  - "refreshing"
+  - "energizing"
+  - "reliable"
+approved_keywords:
+  - "dandruff protection"
+  - "deep clean"
+  - "refreshing coolness"
+  - "scalp care"
+restricted_phrases:
+  - "makes hair fall"
+  - "dry scalp"
+  - "strong chemicals"
+faq_path: "Data/Brand FAQ/Clear_QA_Upsell.csv"

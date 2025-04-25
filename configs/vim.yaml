@@ -1,0 +1,20 @@
+brand_name: "Vim"
+synonyms:
+  - "vim"
+  - "vim bar"
+  - "vim liquid"
+brand_tone:
+  - "tough"
+  - "clean"
+  - "natural strength"
+  - "hygienic"
+approved_keywords:
+  - "lemon power"
+  - "tough on grease"
+  - "natural cleaner"
+  - "kitchen hygiene"
+restricted_phrases:
+  - "corrosive"
+  - "too rough"
+  - "harms dishes"
+faq_path: "Data/Brand FAQ/Vim_QA_Upsell.csv"

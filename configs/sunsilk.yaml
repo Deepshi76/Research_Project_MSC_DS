@@ -1,0 +1,19 @@
+brand_name: "Sunsilk"
+synonyms:
+  - "sunsilk"
+  - "sunsilk shampoo"
+brand_tone:
+  - "vibrant"
+  - "bold"
+  - "expressive"
+  - "trendy"
+approved_keywords:
+  - "long & strong"
+  - "frizz control"
+  - "smooth finish"
+  - "youthful shine"
+restricted_phrases:
+  - "causes hair fall"
+  - "chemical-heavy"
+  - "drying shampoo"
+faq_path: "Data/Brand FAQ/Sunsilk_QA_Upsell.csv"

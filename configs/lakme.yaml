@@ -1,0 +1,20 @@
+brand_name: "Lakme"
+synonyms:
+  - "lakme"
+  - "lakmé"
+  - "lakme makeup"
+brand_tone:
+  - "fashionable"
+  - "confident"
+  - "stylish"
+  - "modern"
+approved_keywords:
+  - "long-lasting"
+  - "runway-ready"
+  - "skin-friendly"
+  - "high coverage"
+restricted_phrases:
+  - "cracks easily"
+  - "too cakey"
+  - "cheap finish"
+faq_path: "Data/Brand FAQ/Lakme_QA_Upsell.csv"

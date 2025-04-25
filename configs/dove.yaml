@@ -1,0 +1,20 @@
+brand_name: "Dove"
+synonyms:
+  - "dove"
+  - "dove soap"
+  - "dove shampoo"
+brand_tone:
+  - "gentle"
+  - "real"
+  - "inclusive"
+  - "reassuring"
+approved_keywords:
+  - "moisturizing"
+  - "skin-friendly"
+  - "real beauty"
+  - "pH balanced"
+restricted_phrases:
+  - "bleach"
+  - "harsh chemicals"
+  - "skin lightening"
+faq_path: "Data/Brand FAQ/Dove_QA_Upsell.csv"

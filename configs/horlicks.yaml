@@ -1,0 +1,20 @@
+brand_name: "Horlicks"
+synonyms:
+  - "horlicks"
+  - "horlicks drink"
+  - "horlicks powder"
+brand_tone:
+  - "nutritious"
+  - "trustworthy"
+  - "family-oriented"
+  - "supportive"
+approved_keywords:
+  - "bone-strengthening"
+  - "essential vitamins"
+  - "family nutrition"
+  - "child growth"
+restricted_phrases:
+  - "energy drink"
+  - "weight loss"
+  - "contains steroids"
+faq_path: "Data/Brand FAQ/Horlicks_QA_Upsell.csv"

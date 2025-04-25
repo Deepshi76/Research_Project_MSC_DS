@@ -1,0 +1,20 @@
+brand_name: "Vaseline"
+synonyms:
+  - "vaseline"
+  - "vaseline lotion"
+  - "vaseline jelly"
+brand_tone:
+  - "caring"
+  - "healing"
+  - "restorative"
+  - "trusted"
+approved_keywords:
+  - "moisture lock"
+  - "dry skin repair"
+  - "gentle healing"
+  - "clinically proven"
+restricted_phrases:
+  - "oily"
+  - "sticky"
+  - "greasy"
+faq_path: "Data/Brand FAQ/Vaseline_QA_Upsell.csv"

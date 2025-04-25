@@ -1,0 +1,20 @@
+brand_name: "Viva"
+synonyms:
+  - "viva"
+  - "viva malt"
+  - "viva drink"
+brand_tone:
+  - "refreshing"
+  - "energizing"
+  - "everyday"
+  - "family-friendly"
+approved_keywords:
+  - "fortified with vitamins"
+  - "everyday boost"
+  - "instant energy"
+  - "light malt taste"
+restricted_phrases:
+  - "medicated"
+  - "bodybuilding supplement"
+  - "artificial ingredients"
+faq_path: "Data/Brand FAQ/Viva_QA_Upsell.csv"

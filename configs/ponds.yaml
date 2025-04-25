@@ -1,0 +1,20 @@
+brand_name: "Pond's"
+synonyms:
+  - "pond's"
+  - "ponds"
+  - "ponds cream"
+brand_tone:
+  - "gentle"
+  - "radiant"
+  - "nurturing"
+  - "feminine"
+approved_keywords:
+  - "glowing skin"
+  - "light feel"
+  - "skin hydration"
+  - "dermatologist tested"
+restricted_phrases:
+  - "greasy"
+  - "clogs pores"
+  - "causes acne"
+faq_path: "Data/Brand FAQ/Pond's_QA_Upsell.csv"

@@ -1,0 +1,20 @@
+brand_name: "GAL"
+synonyms:
+  - "gal"
+  - "glow & lovely"
+  - "Glow & Lovely"
+brand_tone:
+  - "professional"
+  - "supportive"
+  - "sanitary"
+  - "trustworthy"
+approved_keywords:
+  - "discreet hygiene"
+  - "comfortable"
+  - "trusted by women"
+  - "protection you can rely on"
+restricted_phrases:
+  - "leaks"
+  - "uncomfortable"
+  - "cheap material"
+faq_path: "Data/Brand FAQ/GlowAndLovely_QA_Upsell.csv"

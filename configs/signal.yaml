@@ -1,0 +1,20 @@
+brand_name: "Signal"
+synonyms:
+  - "signal"
+  - "signal toothpaste"
+  - "signal kids"
+brand_tone:
+  - "caring"
+  - "dental expert"
+  - "everyday trusted"
+  - "family-friendly"
+approved_keywords:
+  - "fluoride protection"
+  - "fresh breath"
+  - "strong teeth"
+  - "dentist recommended"
+restricted_phrases:
+  - "harsh chemicals"
+  - "bitter taste"
+  - "ineffective"
+faq_path: "Data/Brand FAQ/Signal_QA_Upsell.csv"

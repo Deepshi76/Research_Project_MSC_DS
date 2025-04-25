@@ -1,0 +1,33 @@
+# configs/brand_categories.yaml
+
+# Two generic‐query buckets (no backticks or code fences)
+young:
+  axe: "Young men (grooming & body care)"
+  clear: "Young men & women (anti-dandruff)"
+  closeup: "Young adults (all genders, oral care)"
+  dove: "Young adults (all genders, gentle care)"
+  glowhandsome: "Young men (dark spot reduction)"
+  glowyourself: "Young women (fairness & glow)"
+  lux: "Young women (skincare & glamour)"
+  lakme: "Young women (cosmetics & skincare)"
+  ponds: "Young adults (all genders, beauty & moisturizing)"
+  tresemme: "Young adults (all genders, salon haircare)"
+  vaseline: "Young adults (all genders, deep moisturization)"
+  sunsilk: "Young women (vibrant haircare)"
+
+mature:
+  knorr: "Adults 35+ (all genders, nutrition)"
+  marmite: "Adults 35+ (all genders, nutrition)"
+  horlicks: "Adults 35+ (all genders, nutrition & energy)"
+  viva: "Adults 35+ (all genders, nutrition)"
+  ufs: "Adults 35+ (all genders, nutrition)"
+  sunlight: "Adults 35+ (all genders, household cleaning)"
+  surf_excel: "Adults 35+ (all genders, laundry care)"
+  comfort: "Adults 35+ (all genders, fabric softening)"
+  rin: "Adults 35+ (all genders, detergent)"
+  vim: "Adults 35+ (all genders, cleaning)"
+  domex: "Adults 35+ (all genders, disinfection)"
+  pureit: "Adults 35+ (all genders, water purification)"
+
+every:
+  unilever: "All ages & genders (corporate & overview)"

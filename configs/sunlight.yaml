@@ -1,0 +1,19 @@
+brand_name: "Sunlight"
+synonyms:
+  - "sunlight"
+  - "sunlight soap"
+brand_tone:
+  - "fresh"
+  - "uplifting"
+  - "natural"
+  - "everyday family"
+approved_keywords:
+  - "long-lasting fragrance"
+  - "gentle on hands"
+  - "brightens fabrics"
+  - "lemony freshness"
+restricted_phrases:
+  - "fades clothes"
+  - "too strong"
+  - "cheap scent"
+faq_path: "Data/Brand FAQ/Sunlight_QA_Upsell.csv"

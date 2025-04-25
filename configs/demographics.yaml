@@ -1,0 +1,14 @@
+# configs/demographics.yaml
+# ----------------------------------------
+# Map each age bracket to the Unilever brands to recommend.
+# At runtime we'll pick a representative product from each brand.
+
+age_brackets:
+  "11-18 (Teenagers)":
+    brands: []
+  "19-30 (Young Adults)":
+    brands: []
+  "31-50 (Adults)":
+    brands: []
+  "51+ (Seniors)":
+    brands: []

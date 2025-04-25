@@ -1,0 +1,20 @@
+brand_name: "Rexona"
+synonyms:
+  - "rexona"
+  - "rexona deo"
+  - "rexona deodorant"
+brand_tone:
+  - "fresh"
+  - "active"
+  - "confident"
+  - "clean"
+approved_keywords:
+  - "48-hour protection"
+  - "sweat control"
+  - "fresh feeling"
+  - "motion sense"
+restricted_phrases:
+  - "sticky"
+  - "doesn't last"
+  - "irritating on skin"
+faq_path: "Data/Brand FAQ/Rexona_QA_Upsell.csv"

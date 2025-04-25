@@ -1,0 +1,20 @@
+brand_name: "Closeup"
+synonyms:
+  - "closeup"
+  - "close up"
+  - "closeup gel"
+brand_tone:
+  - "youthful"
+  - "bold"
+  - "romantic"
+  - "confident"
+approved_keywords:
+  - "fresh breath"
+  - "gel toothpaste"
+  - "closer moments"
+  - "confidence booster"
+restricted_phrases:
+  - "bad taste"
+  - "weak formula"
+  - "sensitive gums"
+faq_path: "Data/Brand FAQ/Closeup_QA_Upsell.csv"

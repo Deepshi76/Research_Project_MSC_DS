@@ -1,0 +1,19 @@
+brand_name: "PureIt"
+synonyms:
+  - "pureit"
+  - "pureit water purifier"
+brand_tone:
+  - "safe"
+  - "scientific"
+  - "health-focused"
+  - "modern"
+approved_keywords:
+  - "RO + UV purification"
+  - "germ-free drinking water"
+  - "trusted technology"
+  - "WHO standards"
+restricted_phrases:
+  - "boiling is better"
+  - "non-effective"
+  - "tap water is fine"
+faq_path: "Data/Brand FAQ/PureIt_QA_Upsell.csv"

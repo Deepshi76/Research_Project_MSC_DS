@@ -1,0 +1,20 @@
+brand_name: "GAH"
+synonyms:
+  - "gah"
+  - "glow & handsome"
+  - "Glow & Handsome"
+brand_tone:
+  - "clinical"
+  - "sensitive"
+  - "gentle"
+  - "functional"
+approved_keywords:
+  - "gentle formula"
+  - "safe for daily use"
+  - "clinically tested"
+  - "pH balanced"
+restricted_phrases:
+  - "harsh chemicals"
+  - "causes irritation"
+  - "unsafe for women"
+faq_path: "Data/Brand FAQ/GlowAndHandsome_QA_Upsell.csv"

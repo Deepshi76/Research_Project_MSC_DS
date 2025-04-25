@@ -1,0 +1,20 @@
+brand_name: "Tresemme"
+synonyms:
+  - "tresemme"
+  - "tresemmé"
+  - "tresemme salon"
+brand_tone:
+  - "salon-quality"
+  - "elegant"
+  - "powerful"
+  - "premium"
+approved_keywords:
+  - "professional results"
+  - "keratin smooth"
+  - "salon-finish hair"
+  - "nourishing formula"
+restricted_phrases:
+  - "weighs hair down"
+  - "not effective"
+  - "dulls shine"
+faq_path: "Data/Brand FAQ/Tresemme_QA_Upsell.csv"

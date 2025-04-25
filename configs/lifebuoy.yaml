@@ -1,0 +1,20 @@
+brand_name: "Lifebuoy"
+synonyms:
+  - "lifebuoy"
+  - "lifebuoy soap"
+  - "lifebuoy handwash"
+brand_tone:
+  - "protective"
+  - "hygienic"
+  - "bold"
+  - "reassuring"
+approved_keywords:
+  - "99.9% germ protection"
+  - "family-safe"
+  - "trusted hygiene"
+  - "doctor-recommended"
+restricted_phrases:
+  - "chemical-heavy"
+  - "not skin-friendly"
+  - "burns"
+faq_path: "Data/Brand FAQ/Lifebuoy_QA_Upsell.csv"

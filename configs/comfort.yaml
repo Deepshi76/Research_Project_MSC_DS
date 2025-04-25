@@ -1,0 +1,19 @@
+brand_name: "Comfort"
+synonyms:
+  - "comfort"
+  - "comfort fabric softener"
+brand_tone:
+  - "comforting"
+  - "soothing"
+  - "delicate"
+  - "gentle on fabrics"
+approved_keywords:
+  - "soft feel"
+  - "fresh fragrance"
+  - "fabric care"
+  - "gentle freshness"
+restricted_phrases:
+  - "stiff"
+  - "chemical residue"
+  - "irritating"
+faq_path: "Data/Brand FAQ/Comfort_QA_Upsell.csv"

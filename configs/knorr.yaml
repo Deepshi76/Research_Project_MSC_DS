@@ -1,0 +1,22 @@
+brand_name: "Knorr"
+synonyms:
+  - "knorr"
+  - "knorr soup"
+  - "knorr noodles"
+brand_tone:
+  - "warm"
+  - "homely"
+  - "flavourful"
+  - "convenient"
+approved_keywords:
+  - "tasty"
+  - "easy to cook"
+  - "restaurant-style"
+  - "flavour-packed"
+  - "trusted by chefs"
+restricted_phrases:
+  - "junk food"
+  - "artificial"
+  - "unhealthy"
+  - "msg-heavy"
+faq_path: "Data/Brand FAQ/Knorr_QA_Upsell.csv"

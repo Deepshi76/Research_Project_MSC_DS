@@ -1,0 +1,19 @@
+brand_name: "Domex"
+synonyms:
+  - "domex"
+  - "domex toilet cleaner"
+brand_tone:
+  - "clinical"
+  - "powerful"
+  - "safe"
+  - "protective"
+approved_keywords:
+  - "99.9% germ kill"
+  - "toilet hygiene"
+  - "trusted protection"
+  - "disinfecting power"
+restricted_phrases:
+  - "too strong"
+  - "hazardous"
+  - "burns eyes"
+faq_path: "Data/Brand FAQ/Domex_QA_Upsell.csv"

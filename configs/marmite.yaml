@@ -1,0 +1,20 @@
+brand_name: "Marmite"
+synonyms:
+  - "marmite"
+  - "marmite spread"
+  - "yeast extract"
+brand_tone:
+  - "bold"
+  - "nutritional"
+  - "classic"
+  - "energizing"
+approved_keywords:
+  - "rich in vitamin B"
+  - "power breakfast"
+  - "unique taste"
+  - "strong flavour"
+restricted_phrases:
+  - "weird"
+  - "too salty"
+  - "kids hate it"
+faq_path: "Data/Brand FAQ/Marmite_QA_Upsell.csv"

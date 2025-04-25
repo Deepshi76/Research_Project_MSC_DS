@@ -1,0 +1,20 @@
+brand_name: "Ayush"
+synonyms:
+  - "ayush"
+  - "lever ayush"
+  - "ayurvedic shampoo"
+brand_tone:
+  - "natural"
+  - "ancient wisdom"
+  - "authentic"
+  - "healing"
+approved_keywords:
+  - "ayurvedic herbs"
+  - "paraben-free"
+  - "chemical-free"
+  - "tradition-backed"
+restricted_phrases:
+  - "modern cosmetics"
+  - "synthetic chemicals"
+  - "quick fix"
+faq_path: "Data/Brand FAQ/Ayush_QA_Upsell.csv"

@@ -1,0 +1,19 @@
+brand_name: "Rin"
+synonyms:
+  - "rin"
+  - "rin detergent"
+brand_tone:
+  - "bright"
+  - "effective"
+  - "everyday reliable"
+  - "uplifting"
+approved_keywords:
+  - "removes dullness"
+  - "bright clothes"
+  - "power wash"
+  - "whiteness boost"
+restricted_phrases:
+  - "fades fabric"
+  - "harsh on skin"
+  - "stains left"
+faq_path: "Data/Brand FAQ/Rin_QA_Upsell.csv"

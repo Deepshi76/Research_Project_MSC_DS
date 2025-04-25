@@ -1,0 +1,20 @@
+brand_name: "Axe"
+synonyms:
+  - "axe"
+  - "axe body spray"
+  - "axe deodorant"
+brand_tone:
+  - "confident"
+  - "bold"
+  - "masculine"
+  - "youthful"
+approved_keywords:
+  - "long-lasting fragrance"
+  - "irresistible"
+  - "for him"
+  - "confidence booster"
+restricted_phrases:
+  - "too strong"
+  - "sweaty"
+  - "smells weird"
+faq_path: "Data/Brand FAQ/Axe_QA_Upsell.csv"

@@ -1,0 +1,20 @@
+brand_name: "Surf Excel"
+synonyms:
+  - "surfexcel"
+  - "surf excel"
+  - "surfexcel detergent"
+brand_tone:
+  - "purpose-driven"
+  - "active"
+  - "family-centric"
+  - "reliable"
+approved_keywords:
+  - "tough on stains"
+  - "acts in 1 wash"
+  - "dirt-fighting power"
+  - "kid-safe"
+restricted_phrases:
+  - "irritates skin"
+  - "doesn't work"
+  - "unsafe for kids"
+faq_path: "Data/Brand FAQ/SurfExcel_QA_Upsell.csv"

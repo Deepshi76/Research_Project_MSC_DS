@@ -11,4 +11,4 @@ transformers
 torch
 tqdm
 jupyter
-
+beautifulsoup4

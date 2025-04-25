@@ -1,0 +1,20 @@
+brand_name: "Pears"
+synonyms:
+  - "pears"
+  - "pears baby soap"
+  - "pears gentle"
+brand_tone:
+  - "pure"
+  - "gentle"
+  - "transparent"
+  - "safe for babies"
+approved_keywords:
+  - "glycerin-based"
+  - "baby-safe"
+  - "gentle on skin"
+  - "hypoallergenic"
+restricted_phrases:
+  - "strong fragrance"
+  - "adult use only"
+  - "not natural"
+faq_path: "Data/Brand FAQ/Pears_QA_Upsell.csv"

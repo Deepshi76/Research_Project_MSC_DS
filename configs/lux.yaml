@@ -1,0 +1,19 @@
+brand_name: "Lux"
+synonyms:
+  - "lux"
+  - "lux soap"
+brand_tone:
+  - "elegant"
+  - "sensual"
+  - "feminine"
+  - "glamorous"
+approved_keywords:
+  - "fragrance-rich"
+  - "beauty bar"
+  - "soft skin"
+  - "glowing skin"
+restricted_phrases:
+  - "harsh on skin"
+  - "basic soap"
+  - "cheap bar"
+faq_path: "Data/Brand FAQ/Lux_QA_Upsell.csv"
