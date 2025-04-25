@@ -31,6 +31,8 @@ from langchain.vectorstores import FAISS
 from pathlib import Path
 from dotenv import load_dotenv
 import openai
+import faiss
+
 
 # Load API credentials
 load_dotenv()
