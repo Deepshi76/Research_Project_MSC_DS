@@ -12,3 +12,8 @@ torch
 tqdm
 jupyter
 beautifulsoup4
+streamlit
+openai
+langchain
+faiss-cpu
+tiktoken
