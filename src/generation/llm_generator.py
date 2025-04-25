@@ -26,7 +26,7 @@ Workflow in handle_query():
 import os
 import pickle
 import numpy as np
-import faiss
+from langchain.vectorstores import FAISS
 import re
 from pathlib import Path
 from dotenv import load_dotenv

@@ -27,7 +27,7 @@ import os
 import time
 import pickle
 import numpy as np
-import faiss
+from langchain.vectorstores import FAISS
 from pathlib import Path
 from dotenv import load_dotenv
 import openai
